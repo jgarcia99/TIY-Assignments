@@ -1,7 +1,7 @@
 ###1. `<form>` -- Form
-* *type:*: block-level  
-* *content:* : flow content, palable content.
-* *support:* : all browsers.
+* *type:* block-level  
+* *content:*  flow content, palable content.
+* *support:*  all browsers.
 * *example:* 
 ```
 <form action="">
@@ -12,13 +12,26 @@
 ````
 
 ###2. `<section>` -- Section
-* *type*: block-level 
-* *content* : flow content, sectioning content, palable content. 
-* *support* : all browsers.
-* *example* :
+* *type:* block-level 
+* *content:* flow content, sectioning content, palable content. 
+* *support:* all browsers.
+* *example:*
 ```
 section>
   <h1>Heading</h1>
   <p>Bunch of awesome content</p>
 </section>
+```
+
+###3. `<ol>` -- Ordered List
+*type:* block-level
+*content:* Flow content, and if the <ol> element's children include at least one <li> element, palpable content.
+*support:* all browsers.
+*example:*
+```
+<ol>
+  <li>first item</li>
+  <li>second item</li>
+  <li>third item</li>
+</ol>
 ```
