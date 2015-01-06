@@ -103,3 +103,16 @@ body {
   <!-- other terms and definitions -->
 </dl>
 ```
+###9. `<figcaption>` -- Figure Caption
+* *type:* block-level
+* *content:* None
+* *support:* all browsers
+* *example:* 
+```
+<!-- Figure with figcaption -->
+<figure>
+	<img src="https://developer.cdn.mozilla.net/media/img/mdn-logo-sm.png" alt="An awesome picture">	
+	<figcaption>Caption for the awesome picture</figcaption>
+</figure>
+<p></p>
+```
