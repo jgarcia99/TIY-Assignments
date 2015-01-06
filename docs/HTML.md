@@ -24,14 +24,27 @@ section>
 ```
 
 ###3. `<ol>` -- Ordered List
-*type:* block-level
-*content:* Flow content, and if the <ol> element's children include at least one <li> element, palpable content.
-*support:* all browsers.
-*example:*
+* *type:* block-level
+* *content:* Flow content, and if the <ol> element's children include at least one <li> element, palpable content.
+* *support:* all browsers.
+* *example:*
 ```
 <ol>
   <li>first item</li>
   <li>second item</li>
   <li>third item</li>
 </ol>
+```
+
+###4. `<ul>` -- Unordered List
+* *type:* block-level
+* *content:* Flow Content
+* *support:* all browsers.
+* *example:*
+```
+<ul>
+  <li>first item</li>
+  <li>second item</li>
+  <li>third item</li>
+</ul>
 ```
