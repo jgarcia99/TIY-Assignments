@@ -67,3 +67,14 @@ section>
   </p>
 </article>
 ```
+###6. `<div> -- Document Division 
+* *type:* block-level
+* *content:* Flow Content, Palable content.
+* *support:* all browsers.
+* *example:* 
+```
+<div>
+  <p>Any kind of content here. Such as &lt;p&gt;, &lt;table&gt;. You name it!</p>
+</div>
+```
+
