@@ -89,4 +89,17 @@ body {
 }
 </pre>
 ```
+###8. `<dd>` -- Definition Description
+* *type:* block-level
+* *content:* None
+* *support:* all browsers.
+* *example:*
+```
+<dl>
+  <dt>Firefox</dt>
+  <dd>A free, open source, cross-platform, graphical web browser
+      developed by the Mozilla Corporation and hundreds of volunteers.</dd>
 
+  <!-- other terms and definitions -->
+</dl>
+```
