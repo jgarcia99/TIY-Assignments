@@ -67,7 +67,7 @@ section>
   </p>
 </article>
 ```
-###6. `<div> -- Document Division 
+###6. `<div>` -- Document Division 
 * *type:* block-level
 * *content:* Flow Content, Palable content.
 * *support:* all browsers.
@@ -76,5 +76,17 @@ section>
 <div>
   <p>Any kind of content here. Such as &lt;p&gt;, &lt;table&gt;. You name it!</p>
 </div>
+```
+###7. `<pre>` -- Preformatted Text
+* *type:*  block-level
+* *content:* Flow Content, Palable Content.
+* *support:* all browsers.
+* *example:*
+```
+<pre>
+body {
+  color:red;
+}
+</pre>
 ```
 
