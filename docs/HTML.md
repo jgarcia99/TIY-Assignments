@@ -116,3 +116,14 @@ body {
 </figure>
 <p></p>
 ```
+###10. `<article>` -- Article Content
+* *type:* block-level
+* *content:* Flow content, sectioning content, palable content. 
+* *support:* all browsers
+* *example:*
+```
+<article>
+  <h4>A really awesome article</h4>
+  <p>Lots of awesome text.</p>
+</article>
+```
