@@ -48,3 +48,22 @@ section>
   <li>third item</li>
 </ul>
 ```
+###5. `<aside>` -- Aside Content
+* *type:* block-level
+* *content:* Flow Content
+* *support:* all browsers
+* example:*
+```
+<article>
+  <p>
+    The Disney movie <em>The Little Mermaid</em> was
+    first released to theatres in 1989.
+  </p>
+  <aside>
+    The movie earned $87 million during its initial release.
+  </aside>
+  <p>
+    More info about the movie...
+  </p>
+</article>
+```
