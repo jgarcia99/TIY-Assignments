@@ -1,0 +1,129 @@
+###1. `<form>` -- Form
+* *type:* block-level  
+* *content:*  flow content, palable content.
+* *support:*  all browsers.
+* *example:* 
+```
+<form action="">
+  <label for="GET-name">Name:</label>
+  <input id="GET-name" type="text" name="name">
+  <input type="submit" value="Save">
+</form>
+````
+
+###2. `<section>` -- Section
+* *type:* block-level 
+* *content:* flow content, sectioning content, palable content. 
+* *support:* all browsers.
+* *example:*
+```
+section>
+  <h1>Heading</h1>
+  <p>Bunch of awesome content</p>
+</section>
+```
+
+###3. `<ol>` -- Ordered List
+* *type:* block-level
+* *content:* Flow content, and if the <ol> element's children include at least one <li> element, palpable content.
+* *support:* all browsers.
+* *example:*
+```
+<ol>
+  <li>first item</li>
+  <li>second item</li>
+  <li>third item</li>
+</ol>
+```
+
+###4. `<ul>` -- Unordered List
+* *type:* block-level
+* *content:* Flow Content
+* *support:* all browsers.
+* *example:*
+```
+<ul>
+  <li>first item</li>
+  <li>second item</li>
+  <li>third item</li>
+</ul>
+```
+###5. `<aside>` -- Aside Content
+* *type:* block-level
+* *content:* Flow Content
+* *support:* all browsers
+* example:*
+```
+<article>
+  <p>
+    The Disney movie <em>The Little Mermaid</em> was
+    first released to theatres in 1989.
+  </p>
+  <aside>
+    The movie earned $87 million during its initial release.
+  </aside>
+  <p>
+    More info about the movie...
+  </p>
+</article>
+```
+###6. `<div>` -- Document Division 
+* *type:* block-level
+* *content:* Flow Content, Palable content.
+* *support:* all browsers.
+* *example:* 
+```
+<div>
+  <p>Any kind of content here. Such as &lt;p&gt;, &lt;table&gt;. You name it!</p>
+</div>
+```
+###7. `<pre>` -- Preformatted Text
+* *type:*  block-level
+* *content:* Flow Content, Palable Content.
+* *support:* all browsers.
+* *example:*
+```
+<pre>
+body {
+  color:red;
+}
+</pre>
+```
+###8. `<dd>` -- Definition Description
+* *type:* block-level
+* *content:* None
+* *support:* all browsers.
+* *example:*
+```
+<dl>
+  <dt>Firefox</dt>
+  <dd>A free, open source, cross-platform, graphical web browser
+      developed by the Mozilla Corporation and hundreds of volunteers.</dd>
+
+  <!-- other terms and definitions -->
+</dl>
+```
+###9. `<figcaption>` -- Figure Caption
+* *type:* block-level
+* *content:* None
+* *support:* all browsers
+* *example:* 
+```
+<!-- Figure with figcaption -->
+<figure>
+	<img src="https://developer.cdn.mozilla.net/media/img/mdn-logo-sm.png" alt="An awesome picture">	
+	<figcaption>Caption for the awesome picture</figcaption>
+</figure>
+<p></p>
+```
+###10. `<article>` -- Article Content
+* *type:* block-level
+* *content:* Flow content, sectioning content, palable content. 
+* *support:* all browsers
+* *example:*
+```
+<article>
+  <h4>A really awesome article</h4>
+  <p>Lots of awesome text.</p>
+</article>
+```
