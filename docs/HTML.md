@@ -1,3 +1,30 @@
+### Common Attributes
+
+#### `class` -- element class names
+
+* *values:* space-separated list of class names
+* *support:* all browsers
+* *examples:*
+```html
+<aside class="page--column">
+  <!-- . . . -->
+</aside> <!-- .page--column -->
+<section class="page--column">
+  <!-- . . . -->
+</section> <!-- .page--column -->
+```
+
+### `id` -- unique element identifier
+
+* *values:* single letter character followed by any number of letters, digits, hyphens, underscores, colons or periods
+* *support:* all browsers
+* *examples:*
+```html
+<form class="search" id="site-search">
+  <!-- . . . -->
+</form> <!-- .search#site-search -->
+```
+
 ###1. `<form>` -- Form
 * *type:* block-level  
 * *content:*  flow content, palable content.
@@ -10,6 +37,17 @@
   <input type="submit" value="Save">
 </form>
 ````
+#### `action` -- form submission URL
+
+* *values:* URL of a program that processes a form submission
+* *support:* all browsers
+* *examples:*
+```html
+<form action="http://lmgtfy.com/">
+  <input name="q">
+</form>
+```
+
 
 ###2. `<section>` -- Section
 * *type:* block-level 
