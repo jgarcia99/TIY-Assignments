@@ -87,7 +87,7 @@
 * *elements:* all 
 * *inherited:* no 
 
-#### Values 
+##### Values 
 * auto 
 * isolate 
 
