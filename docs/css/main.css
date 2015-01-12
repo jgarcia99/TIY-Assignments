@@ -61,199 +61,84 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-header {
-    position: relative;
-    background-image: url(http://lorempixel.com/output/nature-q-c-1920-480-7.jpg);
-    padding: 100px;
+.container {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container-side {
+    width: 40%;
+    float: right;
+}
+.main-container {
     
+    width: 50%;
+    float:left;
+    
+    
+}
+
+
+
+header {
+    background-image: url(http://sbrownehr.com/wp-content/uploads/2014/08/Waves.jpg);
+    background-repeat: no-repeat;
+    padding-bottom: 200px;
 }
 
 header h1 {
-     position: relative;
-    top: 100px;
-    left: 250px;
+    text-align: center;
+    font-family: 'Oswald', 'sans-serif';
     color: white;
- font-family: 'Oswald', sans-serif;
-    font-size: 5em;
+    width: auto;
+    margin-top: 0px;
+    font-size: 4em;
+    font-weight: lighter;
+    z-index: 1;
+   
+   
 }
 
-header p {
-    color: aqua;
-    padding-left: 20px;
-}
-
-header img {
+.header-p-1 {
+    text-align: center;
+    color: navy;
+    font-size: .8em;
+    z-index: 0;
     position: relative;
-    bottom: 400px;
-    right: 100px;
 }
-
-.fa {
-    float: right;
-    position: relative;
-    bottom: 395px;
-    left: 50px;
-}
-
-#second-p {
-    position: relative;
-    float: let;
-    right: 30px;
-    bottom: 320px;
-}
-
-header ul {
-    color: aqua;
-}
-
-#first-p {
-    position: relative;
-    top: 10px;
-    left: 500px;
-}
-
-
 
 header li {
     display: inline;
-    position: relative;
-    bottom: 400px;
-    left: 1000px;
-}
-
-.fa fa-camera-retro fa-lg {
-    position: relative;
-    left: 20px;
-}
-
-
-
-    
-.container-1 {
-    width: 60%;
-    float: left;
-    height: 400px;
-    margin-left: 40px;
-    padding-top: 100px;
-
-}
-
-.container-2 {
- width: 30%;
- float: right;
- height: 300px;
- padding-top: 100px;
- 
- 
-}
-
-
-.main-footer {
-  display: inline-block;
-  padding-top: 450px;
-}
-
-aside li {
-    display: inline;
-}
-#reserved {
-    float: left;
-    position: relative;
-    top: 650px;
+    color: navy;
+    text-align: right;
+    padding-left: 10px;
+    font-weight: bolder;
     
 }
 
-
-
-.box {
-   display: inline;
-   float: left;
-  clear: both;
+.header-p-2 {
+    text-align: left;
+    color: navy;
+    font
 }
 
-article h2 {
-    font-family: 'Oswald', sans-serif;
-    font-size: 4em;
-    color: aqua;
+h2 {
+    font-family: 'oswald' 'sans-serif';
+    font-size: 2em;
+    font-weight: bold;
+    color: navy;
 }
 
-article h3 {
-    color: blue;
-    font-size: .3in;
-}
-
-#p-1:last-line {
-    text-decoration: underline;
-}
 article author {
     color: blue;
-    font-size: .4cm;
-    
-    
 }
 
-.date-time {
-    text-decoration: underline;
-    color: gray;
+footer {
+    margin-top: 100px;
 }
 
-aside author {
-    margin-left: 40px;
-    color: blue;
-    
-}
-.clip-circle {
-    background: url(http://lorempixel.com/output/people-q-c-188-170-5.jpg);
 
-  background-size:20px 80px no-repeat;
-  background-position:-180px 0px;
-  height:100px;
-  width:100px;
-  border-radius:50%;
-  overflow:hidden;
-  
-  margin:40px;
-    
-}    
-
-aside li {
-    font-size: .1in;
-    padding-right: 10px;
-    
-}  
-
-aside figcaption {
-    font-size: .3cm ;
-    text-align: right;
-    text-decoration: underline;
-    color: gray;
-}
-
-aside h4 {
-    color: blue;
-}
-
-aside p {
-    color: gray;
-    font-size: .3cm;
-}
-
-footer h2 {
-    font-size: 3em;
-    text-align: center;
-    color: aqua;
-}
-
-.bottom-foot {
-    position: relative;
-    float: right;
-    width: 53%;
-    left: 375px;
-}
-
-.popular-post {
-    
-}
 /* ==========================================================================
    Media Queries
    ========================================================================== */
