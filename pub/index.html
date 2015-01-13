@@ -16,27 +16,43 @@
         <link rel="stylesheet" href="css/main.css">
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
         <style>
-            .timeline > * {
-                display: block;
-                background-color: lightblue;
+            .timeline {
+                padding-left: 10em;
             }
-            .timeline > *:nth-child(even) {
-                background-color: darkblue;
+            .timeline > .timeline--point {
+                background-color: lightblue;
+                display: block;
+                margin: 2ex auto;
             }
             .timeline article {
                 color: white;
+                padding: 1ex 1em;
             }
             .timeline article > h3 {
                 border-bottom: 1px solid;
             }
-            .timeline big {
-                font-size: 200%;
+            .timeline time {
+                float: left;
+                margin-left: -10em;
+                width: 8em;
+                text-align: right;
+                font-size: 2em;
+            }
+            .timeline time small {
+                color: lightgray;
+                font-size: 50%;
+                display: block;
             }
 
-            @media (min-width:800px) and (max-width: 850px) {
-                .timeline big {
-                    font-size: 1000%;
-                }
+            .timeline > .timeline--point time {
+                color: lightblue;
+            }
+
+            .timeline > .timeline--point:nth-child(even) {
+                background-color: darkblue;
+            }
+            .timeline--point:nth-child(even) time {
+                color: darkblue;
             }
         </style>
     </head>
@@ -47,31 +63,31 @@
 
         <!-- Add your site or application content here -->
         <ol class="timeline">
-            <li>
-                <time>1/1/2015 <big>18:30am</big></time>
+            <li class="timeline--point">
+                <time><small>1/1/2015</small> 18:30</time>
                 <!-- icon -->
 
                 <article>
-                    <h3> heading </h3>
+                    <h3> lorem ipsum dolor sit amet </h3>
 
-                    <p> body copy </p>
-                    <p> body copy </p>
-                    <p> body copy </p>
+                    <p>
+                    lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed diam voluptua at vero eos et accusam et justo duo dolores et ea rebum stet clita kasd gubergren no sea takimata sanctus est lorem ipsum dolor sit amet
+                    </p>
                 </article>
-            <li>
-                <time>1/1/2015 08:30am</time>
+            <li class="timeline--point">
+                <time><small>1/1/2015</small> 19:15</time>
                 <!-- icon -->
 
                 <article>
-                    <h3> heading </h3>
+                    <h3> lorem ipsum dolor sit amet </h3>
 
-                    <p> body copy </p>
-                    <p> body copy </p>
-                    <p> body copy </p>
+                    <p>
+                    lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed diam voluptua at vero eos et accusam et justo duo dolores et ea rebum stet clita kasd gubergren no sea takimata sanctus est lorem ipsum dolor sit amet
+                    </p>
                 </article>
-            <li>
-            <li>
-            <li>
+            <li class="timeline--point">
+            <li class="timeline--point">
+            <li class="timeline--point">
         </ol>
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
