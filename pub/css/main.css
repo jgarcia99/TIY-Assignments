@@ -60,12 +60,18 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-
+.fa{
+    margin: -124px;
+    background-color: #AFDCF8;
+    border-radius: 50%;
+    
+}
 .page {
 
     border-left: solid 15px #AFDCF8;
     margin-left: 20%;
     margin-right: 10%;
+  
   
    
 }
@@ -109,6 +115,18 @@ h2 {
     padding: 40px;
     
 }
+
+.third-box {
+    border: 4px solid yellow;
+    background-color: #6CBFEE;
+    color: white;
+    font-weight: lighter;
+    margin-left: 50px;
+    padding: 40px;
+    
+}
+
+
 
 .side-col {
     border: 4px solid green;
