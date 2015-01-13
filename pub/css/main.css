@@ -64,6 +64,7 @@ textarea {
     margin: -124px;
     background-color: #AFDCF8;
     border-radius: 50%;
+    border: 10px solid blue;
     
 }
 .page {
