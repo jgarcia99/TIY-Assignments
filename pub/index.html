@@ -5,71 +5,88 @@
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
     <head>
         <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title></title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="stylesheet" href="css/normalize.min.css">
-        <link rel="stylesheet" href="css/main.css">
-        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.css">
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+        <style>
+            .timeline > * {
+                display: block;
+                background-color: lightblue;
+            }
+            .timeline > *:nth-child(even) {
+                background-color: darkblue;
+            }
+            .timeline article {
+                color: white;
+            }
+            .timeline article > h3 {
+                border-bottom: 1px solid;
+            }
+            .timeline big {
+                font-size: 200%;
+            }
+
+            @media (min-width:800px) and (max-width: 850px) {
+                .timeline big {
+                    font-size: 1000%;
+                }
+            }
+        </style>
     </head>
-    
-    <div class="page">
     <body>
-       
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-         
-         <div class="date-1">
-             <date>4/10/2010</date>
-             <br>
-             <time>18:00</time>
-         </div>
-         
-            <div class="first-box">
-                <i class="fa fa-camera-retro fa-3x"></i>
-               <h2>Rice Black-Eyed Peas</h2>
-                
-                   <hr>
-                   <p>Ancient alien extraterrestrial origin Machu Picchu Ezekiel Sumerian texts contend space brothers, Easter island pyramids sanskrit worm hole pre-colonial aerodynamics pre-colonial aerodynamics. Von Daniken ancient god golden disk Mahabharata inter-dimensional cover up space time, extraterrestrial origin space brothers contend NASA mercury earth mound. Portal the vedas,.Ancient alien extraterrestrial origin Machu Picchu Ezekiel Sumerian texts contend space brothers, Easter island pyramids sanskrit worm hole pre-colonial aerodynamics pre-colonial aerodynamics. Von Daniken ancient god golden disk Mahabharata inter-dimensional cover up space time, extraterrestrial origin space brothers contend NASA mercury earth mound. Portal the vedas,</p>
-            </div>
-            
-              <div class="date-1">
-             <date>4/10/2010</date>
-             <br>
-             <time>18:00</time>
-         </div>
-         
-            <div class="second-box">
-                <i class="fa fa-child fa-3x"></i>
-                <h2>Greens radish argula</h2>
-                    <hr>
-                    <p>Ancient alien extraterrestrial origin Machu Picchu Ezekiel Sumerian texts contend space brothers, Easter island pyramids sanskrit worm hole pre-colonial aerodynamics pre-colonial aerodynamics. Von Daniken ancient god golden disk Mahabharata inter-dimensional cover up space time, extraterrestrial origin space brothers contend NASA mercury earth mound. Portal the vedas,.</p>
-            </div>
-            
-                <div class="date-1">
-             <date>4/10/2010</date>
-             <br>
-             <time>18:00</time>
-         </div>
-         
-             <div class="third-box">
-                 <i class="fa fa-car fa-3x"></i>
-               <h2>Sprout garlic kharliok</h2>
-                   <hr>
-                   <p>Ancient alien extraterrestrial origin Machu Picchu Ezekiel Sumerian texts contend space brothers, Easter island pyramids sanskrit worm hole pre-colonial aerodynamics pre-colonial aerodynamics. Von Daniken ancient god golden disk Mahabharata inter-dimensional cover up space time, extraterrestrial origin space brothers contend NASA mercury earth mound. Portal the vedas,.</p>
-            </div>
-            
-   
-       
-       
-   
+
+        <!-- Add your site or application content here -->
+        <ol class="timeline">
+            <li>
+                <time>1/1/2015 <big>18:30am</big></time>
+                <!-- icon -->
+
+                <article>
+                    <h3> heading </h3>
+
+                    <p> body copy </p>
+                    <p> body copy </p>
+                    <p> body copy </p>
+                </article>
+            <li>
+                <time>1/1/2015 08:30am</time>
+                <!-- icon -->
+
+                <article>
+                    <h3> heading </h3>
+
+                    <p> body copy </p>
+                    <p> body copy </p>
+                    <p> body copy </p>
+                </article>
+            <li>
+            <li>
+            <li>
+        </ol>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
         <script src="js/plugins.js"></script>
         <script src="js/main.js"></script>
+
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <script>
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            e.src='//www.google-analytics.com/analytics.js';
+            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            ga('create','UA-XXXXX-X');ga('send','pageview');
+        </script>
     </body>
-    </div>   <!--PAGE CONTAINER-->
 </html>
