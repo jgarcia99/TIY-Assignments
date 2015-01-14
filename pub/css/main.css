@@ -60,6 +60,7 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+<<<<<<< HEAD
 
 
 h1 {
@@ -69,10 +70,14 @@ h1 {
 
 .fa{
     display: inline-block;
+=======
+.fa{
+>>>>>>> 21c219f369f9f563ac00df9c19915c425a2945a9
     margin: -124px;
     background-color: #AFDCF8;
     border-radius: 50%;
     border: 10px solid blue;
+<<<<<<< HEAD
     position: relative;
     right: 10px;
 }
@@ -85,12 +90,20 @@ h1 {
     
 }
 
+=======
+   
+    
+}
+>>>>>>> 21c219f369f9f563ac00df9c19915c425a2945a9
 .page {
 
     border-left: solid 15px #AFDCF8;
     margin-left: 20%;
     margin-right: 10%;
+<<<<<<< HEAD
     margin-top: 30px;
+=======
+>>>>>>> 21c219f369f9f563ac00df9c19915c425a2945a9
     min-width: 500px;
   
   
@@ -166,6 +179,7 @@ date {
 }
 
 
+<<<<<<< HEAD
  
 
 
@@ -181,6 +195,8 @@ date {
 
 
 
+=======
+>>>>>>> 21c219f369f9f563ac00df9c19915c425a2945a9
 
 
 
@@ -188,11 +204,18 @@ date {
    Media Queries
    ========================================================================== */
 
+<<<<<<< HEAD
 @media screen and (min-width: 200px) and (max-width: 640px) {
    .page { 
        border-left: 200px;
    }
 }
+=======
+@media only screen and (min-width: 35em) {
+
+}
+
+>>>>>>> 21c219f369f9f563ac00df9c19915c425a2945a9
 @media print,
        (-o-min-device-pixel-ratio: 5/4),
        (-webkit-min-device-pixel-ratio: 1.25),
