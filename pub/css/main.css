@@ -84,13 +84,67 @@ textarea {
     padding: 2em;
     border-radius: .7em;
     position: relative;
+    top:0;
+    left:auto;
+    bottom: auto;
+    right:0;
 }
 
 
+small{
+    display: block;
+    color: darkgray;
+}
 
+ol li:nth-child(odd){
+    color: #6CBFEE ;
+}
 
+ol li:nth-child(even) {
+    color: #3594CB;
+}
 
+.time {
+    font-size: 3em;
+}
 
+header {
+    color:#47A3DA;
+}
+
+nav .fa {
+    color: #47A3DA;
+    border: .2em solid;
+    border-radius: 50%;
+    line-height: 1.5em;
+    
+}
+
+h1 {
+    letter-spacing: .5em;
+    font-size: 1.3em;
+    text-transform: uppercase;
+}
+
+body {
+    font-family: arial;
+}
+
+header .fa {
+    
+}
+
+nav .fa:hover {
+    background-color: #47A3DA;
+    color: white;
+}
+
+h3 {
+    font-size: 2em;
+    border-bottom: .06em solid white;
+    
+
+}
 
 
 
@@ -102,13 +156,22 @@ textarea {
    Media Queries
    ========================================================================== */
 
-<<<<<<< HEAD
-@media screen and (min-width: 200px) and (max-width: 640px) {
-   .page { 
-       border-left: 200px;
-   }
-}
-=======
+@media only screen and (max-width:450) {
+    header nav {
+        float: right;
+        margin-left: 20em;
+    }
+
+} 
+
+
+
+
+
+
+
+
+
 @media only screen and (min-width: 35em) {
 
 }
