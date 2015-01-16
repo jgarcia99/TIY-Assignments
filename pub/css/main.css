@@ -97,16 +97,55 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+.page {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
 
+header {
+   background-image: url(http://www.vivapuertomorelos.com/files/Beach_Ocean_3_by_FL.JPG);
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: .5em;
+     font-family: 'Open Sans', sans-serif;
+}
 
+header nav li {
+    display: inline;
+    padding-right: 1em;
+    color: navyblue;
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.3em;
+    font-weight: bold
+    
+}
 
+header img {
+    height: 10%;
+    width: 10%;
+    padding: 1em;
+    
+    
+}
 
+h1 {
+    color: white;
+    font-weight: 500;
+    font-size: 2.9em;
+   
+}
 
-
-
-
-
-
+h2 {
+    font-size: 1.4em;
+    font-weight: 500;
+    position: relative;
+    bottom: 1.7em;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: .04em;
+    
+}
 
 
 
