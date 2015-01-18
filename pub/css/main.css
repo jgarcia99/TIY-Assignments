@@ -228,7 +228,7 @@ aside figcaption {
     font-weight: bolder;
     text-align: center;
     display: inline-block;
-    margin-left: 7em;
+    
     
 }
 
@@ -267,14 +267,29 @@ footer img {
     list-style: none;
         
 }
-section figure figcaption {
- font-size: 2em;
 
-    
-    
-    
-    
+
+.extra-pic {
+    display: none;
 }
+
+header h3 {
+    display: none;
+}
+
+.content span {
+    display: none; 
+}
+
+.posts figcaption {
+    position: absolute;
+    font-size: 2em;
+    color: white;
+    
+    font-family: sans-serif;
+}
+
+
 
 
 /* ==========================================================================
@@ -403,10 +418,74 @@ section figure figcaption {
 
 .posts {
     margin: auto 12% 10% 0;
-    width: 80%;
-    height: 53%;
+    width: auto;
+    height: 3%;
+    
         
 }
+
+
+.posts li {
+    display: inline-block;
+    width: 50%;
+    
+    
+}
+
+.posts h3 {
+    font-size: 4em;
+    margin-left: 5em;
+}
+
+
+h1 {
+    font-size: 6em;
+}
+
+.extra-pic {
+    display: inline-block;
+}
+
+header h3 {
+    display: inline-block;
+    position: absolute;
+    top: .5em;
+    left: 7em
+}
+
+header img {
+    float: left;
+    height: 2em;
+    width: 2em;
+    margin-top: -3em;
+    
+}
+
+
+footer {
+    margin
+}    
+    
+.content span {
+    display: inline-block;
+
+}   
+
+.content span img {
+    border-radius: 50%;
+    height: 3em;
+
+}
+
+.page-bottom img{
+    height: 3%;
+    width: 5%;
+}
+
+
+
+
+
 
 
 
