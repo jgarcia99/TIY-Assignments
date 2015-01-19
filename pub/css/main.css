@@ -196,10 +196,11 @@ aside author {
     color: #009AD9;
 }
 
-h5 {
+aside h2 {
     color: gray;
-    font-size: 1.2em;
-    font-weight: 400
+    font-size: 1em;
+    font-weight: 400;
+    padding-top: 2em
     
 }
 
@@ -216,10 +217,13 @@ aside figcaption {
     
 }
 
-.posts {
-    margin: 0 auto;
-    width: 80%;
-    height: 30%;
+.posts li {
+    
+    width: 100%;
+    margin-left: 3em;
+    list-style: none;
+    
+    
 }
 
 .posts h3 {
@@ -228,15 +232,20 @@ aside figcaption {
     font-weight: bolder;
     text-align: center;
     display: inline-block;
-    
+    border-top: 1px solid gray;
     
 }
 
+.share-buttons p {
+display: none;
+}
 
+.sideline-head {
+display: none;
+}
 
 section img {
-    height: 10%;
-    width: 100%;
+    height: 25em;
     
 }
 
@@ -262,10 +271,10 @@ footer img {
 
 
 .posts ul {
+
     
-    width: 80%;
     list-style: none;
-        
+       
 }
 
 
@@ -404,7 +413,7 @@ header h3 {
 .content {
     width: 40%;
     float: left;
-    margin: %;
+    margin:;
     margin-left: 10em;
 }
 
@@ -417,17 +426,28 @@ header h3 {
 }
 
 .posts {
-    margin: auto 12% 10% 0;
-    width: auto;
-    height: 3%;
+    clear: both;
+    
     
         
 }
 
+.sideline-head {
+display: block;
+}
 
+.sideline-head h3 {
+    color: #1670BA;
+    
+}
+    
+.sideline-head p {
+    text-align: left;
+    color: gray;
+}
 .posts li {
     display: inline-block;
-    width: 50%;
+    width: 20%;
     
     
 }
@@ -435,6 +455,7 @@ header h3 {
 .posts h3 {
     font-size: 4em;
     margin-left: 5em;
+    text-align: center
 }
 
 
@@ -478,18 +499,30 @@ footer {
 }
 
 .page-bottom img{
-    height: 3%;
+    height: 5%;
     width: 5%;
 }
 
 
-
-
-
-
-
+.posts figcaption {
+    font-size: 1.9em
+    
+}
+.share-buttons p {
+  display: inline;
+  border: 2px solid #106DB3;
+  background-color: #106DB3;
+  color: white;
+  padding: .5em;
 
 }
+
+}
+
+
+
+
+
 
 
 
