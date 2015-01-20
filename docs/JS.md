@@ -90,3 +90,114 @@ NaN === NaN;        // false
 Number.NaN === NaN; // false
 isNaN(NaN);         // true
 isNaN(Number.NaN);  // true
+
+### [Operator: Addition](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Addition_(.2B))
+
+* _symbol_: `+`
+* _pronunciation_: "plus", "added to"
+* _examples_:
+```javascript
+1 + 2 + 3 // 6, of course
+'1' + 2 + 3 // '123', obviously... WTF?
+
+### [Operator: Subtraction](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Subtraction_(-))
+
+* _symbol_: `-`
+* _pronunciation_: "subtraction", "difference"
+* _examples_:
+```javascript
+7 - 8
+-1
+3 - 2
+1
+
+### [Operator: Division](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Division_(.2F))
+
+* _symbol_: `/`
+* _pronunciation_: "division", "dividend", "quotient", "divisor"
+* _examples_:
+```javascript
+1 / 2
+0.5
+
+### [Operator: Multiplication](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Multiplication_(*))
+
+* _symbol_: `*`
+* _pronunciation_: "multiplication", "product"
+* _examples_:
+```javascript
+2 * 2
+4
+
+### [Operator: Remainder](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Remainder_(.25))
+
+* _symbol_: `%`
+* _pronunciation_: "Remainder", "modulo"
+* _examples_:
+```javascript
+12 % 5
+2
+
+### [Operator: Unary Negation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Unary_negation_(-))
+
+* _symbol_: `-`
+* _pronunciation_: "Unary Negation", "Negates"
+* _examples_:
+```javascript
+var x = 3;
+y = -x;
+y = -3,x = 3
+
+### [Operator: Unary Plus](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Unary_plus_(.2B))
+
+* _symbol_: `+`
+* _pronunciation_: "Unary Plus", "Convert"
+* _examples_:
+```javascript
++3
+3
++"3"
+3
++true
+1
+
+### [Assignment-Operator: Left Shift Assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment_Operators#Left_shift_assignment_2)
+
+* _symbol_: `<<=`
+* _pronunciation_: "Left shift", "Bits left"
+* _examples_:
+```javascript
+Operator: x <<= y 
+Meaning:  x   = x << y
+var bar = 5; //  (00000000000000000000000000000101)
+bar <<= 2; // 20 (00000000000000000000000000010100)
+
+
+### [Assignment-Operator: Bitwise AND assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment_Operators#Bitwise_AND_assignment_2)
+
+* _symbol_: `&=`
+* _pronunciation_: "Binary Representation", "bitwise AND operation"
+* _examples_:
+```javascript
+Operator: x &= y 
+Meaning:  x  = x & y
+var bar = 5;
+// 5:     00000000000000000000000000000101
+// 2:     00000000000000000000000000000010
+bar &= 2; // 0
+
+### [Assignment-Operator: Bitwise XOR assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment_Operators#Bitwise_XOR_assignment_2)
+
+* _symbol_: `^=`
+* _pronunciation_: "Binary Representation", "bitwise XOR operation"
+* _examples_:
+```javascript
+Operator: x ^= y 
+Meaning:  x  = x ^ y
+var bar = 5;
+bar ^= 2; // 7
+// 5: 00000000000000000000000000000101
+// 2: 00000000000000000000000000000010
+// -----------------------------------
+// 7: 00000000000000000000000000000111
+
