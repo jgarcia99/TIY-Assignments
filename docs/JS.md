@@ -91,7 +91,7 @@ Number.NaN === NaN; // false
 isNaN(NaN);         // true
 isNaN(Number.NaN);  // true
 ```
-### [Operator: Addition](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Addition_(.2B)
+### [Operator: Addition](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Addition_(.2B))
 
 * _symbol_: `+`
 * _pronunciation_: "plus", "added to"
@@ -100,7 +100,7 @@ isNaN(Number.NaN);  // true
 1 + 2 + 3 // 6, of course
 '1' + 2 + 3 // '123', obviously... WTF?
 ```
-### [Operator: Subtraction](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Subtraction_(-)
+### [Operator: Subtraction](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Subtraction_(-))
 
 * _symbol_: `-`
 * _pronunciation_: "subtraction", "difference"
@@ -111,7 +111,7 @@ isNaN(Number.NaN);  // true
 3 - 2
 1
 ```
-### [Operator: Division](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Division_(.2F)
+### [Operator: Division](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Division_(.2F))
 
 * _symbol_: `/`
 * _pronunciation_: "division", "dividend", "quotient", "divisor"
@@ -120,7 +120,7 @@ isNaN(Number.NaN);  // true
 1 / 2
 0.5
 ```
-### [Operator: Multiplication](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Multiplication_(*)
+### [Operator: Multiplication](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Multiplication_(*))
 
 * _symbol_: `*`
 * _pronunciation_: "multiplication", "product"
@@ -129,7 +129,7 @@ isNaN(Number.NaN);  // true
 2 * 2
 4
 ```
-### [Operator: Remainder](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Remainder_(.25)
+### [Operator: Remainder](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Remainder_(.25))
 
 * _symbol_: `%`
 * _pronunciation_: "Remainder", "modulo"
@@ -138,7 +138,7 @@ isNaN(Number.NaN);  // true
 12 % 5
 2
 ```
-### [Operator: Unary Negation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Unary_negation_(-)
+### [Operator: Unary Negation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Unary_negation_(-))
 
 * _symbol_: `-`
 * _pronunciation_: "Unary Negation", "Negates"
@@ -148,7 +148,7 @@ var x = 3;
 y = -x;
 y = -3,x = 3
 ```
-### [Operator: Unary Plus](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Unary_plus_(.2B)
+### [Operator: Unary Plus](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Unary_plus_(.2B))
 
 * _symbol_: `+`
 * _pronunciation_: "Unary Plus", "Convert"
