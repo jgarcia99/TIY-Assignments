@@ -42,4 +42,4 @@ function div(A, B){
 
 //console.log(prod(4,5));
 
-assert.equal(diff(4, 3),19)
+assert.equal(add(4, 3),19)
