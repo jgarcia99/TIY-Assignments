@@ -18,18 +18,30 @@
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
         
        <style type="text/css">
-    p{
-        padding: 25px;
-        font-size: 2px;
-        font-weight: bold;
-        text-align: center;
-        background: ;
-        margin:0;
-    }
-    
-    div {
-        border: 3px solid red;
-    }
+  
+            thead th {
+                border-bottom: 1px solid red;
+            }
+           
+           tbody th {
+                border-right: 1px solid blue;
+           }
+           
+           tbody td {
+                width: 150px; 
+               height: 150px;
+               border: 1px solid black;
+           }
+           
+          tbody :nth-child(even) td:nth-child(even),
+          tbody :nth-child(odd) td:nth-child(odd) 
+           {
+            background-color: black;
+          }
+           
+           
+           
+           
 </style>
     </head>
     <body>
@@ -39,26 +51,118 @@
 
         <!-- Add your site or application content here -->
         
-
-  <div class="container">
-        <div class="row">
-          
-        <div class="col-sm-8 .col-m-8"><p>1</p></div>
-           
-        <div class="col-sm-8 .col-m-8"><p>1</p></div>
-              
-        <div class="col-sm-8 .col-m-8"><p>1</p></div>
-              
-        <div class="col-sm-8 .col-m-8"><p>1</p></div>
-              
-        <div class="col-sm-8 .col-m-8"><p>1</p></div>  
-        <div class="col-sm-8 .col-m-8"><p>1</p></div>  
-        <div class="col-sm-8 .col-m-8"><p>1</p></div>  
-        <div class="col-sm-8 .col-m-8"><p>1</p></div>
-               
-       
+            <table>
+                <thead>
+                    <tr>
+                        <td></td>
+                        <td>a</td>
+                        <td>b</td>
+                        <td>c</td>
+                        <td>d</td>
+                         <td>e</td>
+                        <td>f</td>
+                        <td>g</td>
+                        <td>h</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th>8</th>
+                        <td></td>
+                        <td></td>
+                         <td></td>
+                        <td></td>
+                         <td></td>
+                        <td></td>
+                         <td></td>
+                         <td></td>
+                    </tr>
+                     <tr>
+                        <th>7</th>
+                        <td></td>
+                        <td></td>
+                         <td></td>
+                        <td></td>
+                         <td></td>
+                        <td></td>
+                         <td></td>
+                          <td></td>
+                    </tr>
+                     <tr>
+                        <th>6</th>
+                        <td></td>
+                        <td></td>
+                          <td></td>
+                        <td></td>
+                         <td></td>
+                        <td></td>
+                         <td></td>
+                          <td></td>
+                    </tr>
+                     <tr>
+                        <th>5</th>
+                        <td></td>
+                        <td></td>
+                          <td></td>
+                        <td></td>
+                         <td></td>
+                        <td></td>
+                         <td></td>
+                          <td></td>
+                    </tr>
+                     <tr>
+                        <th>4</th>
+                        <td></td>
+                        <td></td>
+                          <td></td>
+                        <td></td>
+                         <td></td>
+                        <td></td>
+                         <td></td>
+                          <td></td>
+                    </tr>
+                     <tr>
+                        <th>3</th>
+                        <td></td>
+                        <td></td>
+                          <td></td>
+                        <td></td>
+                         <td></td>
+                        <td></td>
+                         <td></td>
+                          <td></td>
+                    </tr>
+                     <tr>
+                        <th>2</th>
+                        <td></td>
+                        <td></td>
+                          <td></td>
+                        <td></td>
+                         <td></td>
+                        <td></td>
+                         <td></td>
+                          <td></td>
+                    </tr>
+                     <tr>
+                        <th>1</th>
+                        <td></td>
+                        <td></td>
+                          <td></td>
+                        <td></td>
+                         <td></td>
+                        <td></td>
+                         <td></td>
+                          <td></td>
+                    </tr>
+                </tbody>
+            
         
         
+        
+        
+        
+        
+        </table>
          
        
         
