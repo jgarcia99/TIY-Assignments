@@ -11,7 +11,7 @@
 null 
 x = null
 null
-
+```
 ### [Primitive: Boolean-Literal](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Values,_variables,_and_literals#Boolean_literals)
 
 * _symbol_: `true` `false`
@@ -23,7 +23,7 @@ true
 
 "3" == 4
 false
-
+```
 ### [Primitive: Number-Literal](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number)
 
 * _symbol_: `Number(value)` 
@@ -33,8 +33,8 @@ false
 var biggestNum = Number.MAX_VALUE;
 var notANum = Number.NaN;
 var biggestInt = 9007199254740992;
-var d = new Date('December 17, 1995 03:24:00');
-
+var d = new Date('December 17, 1995 03:24:00')
+```
 ### [Primitive: String-Literal](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
 
 * _symbol_: `' '` `" "`
@@ -43,7 +43,7 @@ var d = new Date('December 17, 1995 03:24:00');
 ```javascript
 'cool'
 "5"
-
+```
 ### [Constructor: Objects-Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
 
 * _symbol_: `( )`
@@ -51,7 +51,7 @@ var d = new Date('December 17, 1995 03:24:00');
 * _examples_:
 ```javascript
 Object.assign(); new Object([value]); { [ nameValuePair1[, nameValuePair2[, ...nameValuePairN] ] ] }
-
+```
 
 ### [Object Initializer: Array-Literal](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Values,_variables,_and_literals#Array_literals)
 
@@ -60,7 +60,7 @@ Object.assign(); new Object([value]); { [ nameValuePair1[, nameValuePair2[, ...n
 * _examples_:
 ```javascript
 var coffees = ["French Roast", "Colombian", "Kona"];
-
+```
 ### [Constructor: RegExp-Literal](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
 
 * _symbol_: `\` `^` `$` `*` `?` `.` `x(?!y)` `\xhh`
@@ -70,7 +70,7 @@ var coffees = ["French Roast", "Colombian", "Kona"];
 new RegExp('ab+c', 'i'); 
 var re = /\w+/;
 var re = new RegExp('\\w+');
-
+```
 ### [Built In Value: Infinity](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity)
 
 * _symbol_: `infinity`
@@ -79,7 +79,7 @@ var re = new RegExp('\\w+');
 ```javascript
 Number.NEGATIVE_INFINITY
 Number.POSITIVE_INFINITY
-
+```
 ### [Built In Value: NaN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN)
 
 * _symbol_: `Nan`
@@ -90,8 +90,8 @@ NaN === NaN;        // false
 Number.NaN === NaN; // false
 isNaN(NaN);         // true
 isNaN(Number.NaN);  // true
-
-### [Operator: Addition](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Addition_(.2B))
+```
+### [Operator: Addition](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Addition_(.2B)
 
 * _symbol_: `+`
 * _pronunciation_: "plus", "added to"
@@ -99,8 +99,8 @@ isNaN(Number.NaN);  // true
 ```javascript
 1 + 2 + 3 // 6, of course
 '1' + 2 + 3 // '123', obviously... WTF?
-
-### [Operator: Subtraction](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Subtraction_(-))
+```
+### [Operator: Subtraction](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Subtraction_(-)
 
 * _symbol_: `-`
 * _pronunciation_: "subtraction", "difference"
@@ -110,8 +110,8 @@ isNaN(Number.NaN);  // true
 -1
 3 - 2
 1
-
-### [Operator: Division](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Division_(.2F))
+```
+### [Operator: Division](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Division_(.2F)
 
 * _symbol_: `/`
 * _pronunciation_: "division", "dividend", "quotient", "divisor"
@@ -119,8 +119,8 @@ isNaN(Number.NaN);  // true
 ```javascript
 1 / 2
 0.5
-
-### [Operator: Multiplication](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Multiplication_(*))
+```
+### [Operator: Multiplication](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Multiplication_(*)
 
 * _symbol_: `*`
 * _pronunciation_: "multiplication", "product"
@@ -128,8 +128,8 @@ isNaN(Number.NaN);  // true
 ```javascript
 2 * 2
 4
-
-### [Operator: Remainder](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Remainder_(.25))
+```
+### [Operator: Remainder](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Remainder_(.25)
 
 * _symbol_: `%`
 * _pronunciation_: "Remainder", "modulo"
@@ -137,8 +137,8 @@ isNaN(Number.NaN);  // true
 ```javascript
 12 % 5
 2
-
-### [Operator: Unary Negation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Unary_negation_(-))
+```
+### [Operator: Unary Negation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Unary_negation_(-)
 
 * _symbol_: `-`
 * _pronunciation_: "Unary Negation", "Negates"
@@ -147,8 +147,8 @@ isNaN(Number.NaN);  // true
 var x = 3;
 y = -x;
 y = -3,x = 3
-
-### [Operator: Unary Plus](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Unary_plus_(.2B))
+```
+### [Operator: Unary Plus](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Unary_plus_(.2B)
 
 * _symbol_: `+`
 * _pronunciation_: "Unary Plus", "Convert"
@@ -160,7 +160,7 @@ y = -3,x = 3
 3
 +true
 1
-
+```
 ### [Assignment-Operator: Left Shift Assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment_Operators#Left_shift_assignment_2)
 
 * _symbol_: `<<=`
@@ -171,7 +171,7 @@ Operator: x <<= y
 Meaning:  x   = x << y
 var bar = 5; //  (00000000000000000000000000000101)
 bar <<= 2; // 20 (00000000000000000000000000010100)
-
+```
 
 ### [Assignment-Operator: Bitwise AND assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment_Operators#Bitwise_AND_assignment_2)
 
@@ -185,7 +185,7 @@ var bar = 5;
 // 5:     00000000000000000000000000000101
 // 2:     00000000000000000000000000000010
 bar &= 2; // 0
-
+```
 ### [Assignment-Operator: Bitwise XOR assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment_Operators#Bitwise_XOR_assignment_2)
 
 * _symbol_: `^=`
@@ -200,4 +200,4 @@ bar ^= 2; // 7
 // 2: 00000000000000000000000000000010
 // -----------------------------------
 // 7: 00000000000000000000000000000111
-
+```
