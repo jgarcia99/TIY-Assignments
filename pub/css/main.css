@@ -97,8 +97,51 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-
-
+  th {
+                border: 1px solid black;
+                background-color: darkgray;
+            }
+           
+           tbody th {
+                border: 1px solid black;
+               background-color: darkgray;
+           }
+           
+           tbody td {
+                width: 10%; 
+               padding-bottom: 10%;
+               border: 1px solid black;
+           }
+           
+          tbody :nth-child(even) td:nth-child(even),
+          tbody :nth-child(odd) td:nth-child(odd) 
+           {
+            background-color: red;
+          }
+           
+           th {
+            background-color: darkgray;
+               padding: 2em;
+           }
+           
+          table {
+            width: 90%;
+              margin: 0 auto;
+          }
+           
+           .end {
+            background: darkgray
+           }
+         
+           .pawn-black {
+            font-size: 2em;
+               position: absolute;
+           }
+           
+        .white-queen  {
+            content: "\2655";
+            
+        }
 
 
 
