@@ -138,15 +138,36 @@ textarea {
                position: absolute;
            }
            
-        .white-queen  {
-            content: "\2655";
+        .piece  {
+            border: 1px solid;
+            width: 10em;
+            height: 19ex;
+            text-align: center;
+        
+            
         
             
         }
+        
+        td {
+            position: relative;
+        }
 
+        td:before {
+            font-size: 7em;
+            position: absolute;
+        }
 
+        .queen:before {
+            content: '\2655';
+            font-size: 6em;
+        }
 
-
+        
+        .king:before {
+            content: '\2654';
+            font-size: 6em;
+        }
 
 
 
