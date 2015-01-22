@@ -201,3 +201,194 @@ bar ^= 2; // 7
 // -----------------------------------
 // 7: 00000000000000000000000000000111
 ```
+
+### [Conditional Statement: If...else](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
+
+* _symbol_: `if` `else`
+* _pronunciation_: "if", "else", "condition",
+* _examples_:
+```javascript
+if (condition)
+   statement1
+[else
+   statement2]
+   
+if (cipher_char === from_char) {
+   result = result + to_char;
+   x++;
+} else {
+   result = result + clear_char;
+}
+
+if (x > 5) {
+
+} else if (x > 50) {
+
+} else {
+
+}
+```
+### [Block Statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Statements#Block_Statement)
+
+* _symbol_: `statement_1` `statement_2`
+* _pronunciation_: "block", "group", "statement",
+* _examples_:
+```javascript
+    while (x < 10) {
+  x++;
+}
+```
+
+### [Return Statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return)
+
+* _symbol_: `return` 
+* _pronunciation_: "return", "statement"
+* _examples_:
+```javascript
+    function square(x) {
+        return x * x;
+    }
+    
+    function magic (x) {
+        return function calc(x) { return x * 42};
+        
+        }
+    
+    var answer = magic();
+    answer(1337); // 56154
+```
+
+
+### [Conditional Statement: Switch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Statements#switch_Statement)
+
+* _symbol_: `switch` 
+* _pronunciation_: "switch", "statement", "evaluate", "match"
+* _examples_:
+```javascript
+    switch (expression) {
+   case label_1:
+      statements_1
+      [break;]
+   case label_2:
+      statements_2
+      [break;]
+   ...
+   default:
+      statements_def
+      [break;]
+}
+
+switch (fruittype) {
+    case "Oranges":
+        document.write("oranges are $0.59 a pound.<br>");
+        break;
+   case "Apples":
+      document.write("Apples are $0.32 a pound.<br>");
+      break;
+   case "Bananas":
+      document.write("Bananas are $0.48 a pound.<br>");
+      break;
+   case "Cherries":
+      document.write("Cherries are $3.00 a pound.<br>");
+      break;
+   case "Mangoes":
+      document.write("Mangoes are $0.56 a pound.<br>");
+       break;
+   case "Papayas":
+      document.write("Mangoes and papayas are $2.79 a pound.<br>");
+      break;
+   default:
+      document.write("Sorry, we are out of " + fruittype + ".<br>");
+}
+document.write("Is there anything else you'd like?<br>");
+
+
+```
+
+### [Loop Statement: for](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Statements#for_Statement)
+
+* _symbol_: `for` 
+* _pronunciation_: "for", "loop", 
+* _examples_:
+```javascript
+    
+
+function howMany(selectObject) {
+   var numberSelected = 0;
+   for (var i = 0; i < selectObject.options.length; i++) {
+      if (selectObject.options[i].selected)
+         numberSelected++;
+   }
+   return numberSelected;
+}
+
+
+ ```
+ 
+### [Loop Statement: do...while](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Statements#do...while_Statement)
+
+* _symbol_: `do` `while` 
+* _pronunciation_: "do", "while", "false"
+* _examples_:
+```javascript
+   do {
+   i += 1;
+   document.write(i);
+} while (i < 5); 
+```
+
+### [Loop Statement: while](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Statements#while_Statement)
+
+* _symbol_: `while` 
+* _pronunciation_:"while", "true"
+* _examples_:
+```javascript
+  n = 0;
+x = 0;
+while (n < 3) {
+   n++;
+   x += n;
+}
+  
+```
+
+### [Loop Statement: Label Statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Statements#label_Statement)
+
+* _symbol_: `label` 
+* _pronunciation_:"label", "statement"
+* _examples_:
+```javascript
+markLoop:
+while (theMark == true) {
+   doSomething();
+}
+  
+```
+
+### [Loop Statement: Break Statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Statements#break_Statement)
+
+* _symbol_: `break` 
+* _pronunciation_:"break", break label"
+* _examples_:
+```javascript
+for (i = 0; i < a.length; i++) {
+   if (a[i] == theValue)
+      break;
+} 
+```
+
+### [Loop Statement: Continue Statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Statements#continue_Statement)
+
+* _symbol_: `Continue` 
+* _pronunciation_:"Continue","Continue Label", "Restart"
+* _examples_:
+```javascript
+i = 0;
+n = 0;
+while (i < 5) {
+   i++;
+   if (i == 3)
+      continue;
+   n += i;
+}
+```
