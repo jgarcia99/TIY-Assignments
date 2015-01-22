@@ -436,5 +436,84 @@ var popped = myFish.pop();
 console.log(myFish); // ['angel', 'clown', 'mandarin']
 console.log(popped); // 'sturgeon'
 ```
+#### [`Array.prototype.splice()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
 
+* *result:* Splice() method changes the content of an array by removing existing elements and or adding new elements.
+* *parameters:* start-to start changing array, deleteCount-number indicating the number of old array elements to remove, itemN-the elements to add to the array.
+* *returns:* An array containing the deleted elements. 
+```javascript
+var myFish = ['angel', 'clown', 'madarin', 'surgeon'];
+
+// removes 0 elements from index 2, and inserts 'drum'
+var removed = myFish.splice(2,0, 'drum');
+//myFish is ['angel', 'clown', 'drum', 'mandarin', 'surgeon']
+// removed is [], no elements removed
+
+//removes 1 element from index 3
+removed = myFish.splice (3,1);
+// myFish is ['angel', 'clown', 'drum', 'surgeon']
+// removed is ['mandarin']
+
+// removes 1 element from index 2, and inserts 'trumpet'
+removed = myFish.splice(2,1, 'trumpet');
+// myFish is ['angel', 'clown', 'trumpet', 'surgeon']
+// removed is ['drum']
+```
+
+#### [`Array.prototype.slice()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice)
+
+* *result:* The slice() method returns a shallow copy of a portion of an array into a new array object.
+* *parameters:* arr.slice([begin[, end]])
+* *returns:* A shallow copy of elements from the original array; 
+```javascript
+//Return a portion of an existing array
+var fruits = ['Banana', 'Orange', 'Lemon', 'Apple', 'Mango'];
+var citrus = fruits.slice(1,3);
+
+// citrus contains ['Orange', 'Lemon']
+
+//Using slice, create newCar from myCar.
+var myHonda = {color: 'red', wheels: 4, engine: {cylinders: 4, size: 2.2} }
+var myCar = [myHonda, 2, 'cherry condition', 'purchased 1997'];
+var newCar = myCar.slice(0,2);
+
+function list() {
+    return Array.prototype.slice.call(arguments, 0);
+}
+var list1 = list (1, 2, 3); //[1,2,3]
+```
+
+#### [`Array.prototype.push()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push)
+
+* *result:* The push() method adds one or more elements to the end of an array and returns the new length of the array.
+* *parameters:* arr.push(element1, ..., elementsN) "elementN The elements to add to the end of the array.
+* *returns:* The new length property of the object upon which the method was called; 
+```javascript
+//Adding elements to an array
+var sports = ['soccer', 'baseball'];
+var total = sports.push('football', 'swimming');
+
+console.log(sports); // ['soccer', 'baseball', 'football', 'swimming'];
+console.log(total); // 4
+
+//Merging two arrays
+var vegetables = ['parsnip', 'potato'];
+var moreVegs = ['celery', 'beetroot'];
+//Merge the second array into the first one
+//Equivalent to vegetables.push('celery', 'beetroot');
+Array.prototype.push.apply(vegetables, moreVegs);
+console.log(vegetables); //['parsnip;, 'potato', 'celery', 'beetroot'];
+```
+
+#### [`Array.prototype.reverse()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse)
+
+* *result:* reverse() method reverses an array in place. last becomes first and vice versa.
+* *parameters:* NONE.
+* *returns:* a reference to the array. 
+```javascript
+var myArray = ['one', 'two', 'three'];
+myArray.reverse();
+
+console.log(myArray) // ['three', 'two', 'one']
+```
 
