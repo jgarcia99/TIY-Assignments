@@ -517,3 +517,51 @@ myArray.reverse();
 console.log(myArray) // ['three', 'two', 'one']
 ```
 
+#### [`Array.prototype.shift()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift)
+
+* *result:* removes the first element from an array and returns that element.
+* *parameters:* NONE.
+* *returns:* that elements also changes the length of the array. 
+```javascript
+var myFish = ['angel', 'clown', 'mandarin', 'surgeon'];
+
+myFish.shift();
+
+//removes angel
+```
+
+#### [`Array.prototype.unshift()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift)
+
+* *result:* Adds one or more elements to the beginning of an array and returns the new length of the array.
+* *parameters:* elementN: The elements to add to the front of the array.
+* *returns:* The new length property of the object upon which the method was called. 
+```javascript
+var arr = [1,2];
+
+arr.unshift(0); // result of call is 3, the new array length
+// arr is [0,1,2]
+
+arr.unshift(-2, -1): // = 5
+// arr is [-2, -1, -, 1, 2]
+
+arr.unshift([-3]);
+// arr is [[-3], -2, -1, 0, 1, 2]
+```
+
+#### [`Array.prototype.sort()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
+
+* *result:* sorts the elements of an array in  place and returns the array. The sort is not necessarily stable. The default sort order is according to string unicode code points.
+* *parameters:* compareFunction: Optional. Specifies a function that defines the sort order. If omitted, the array is sorted according to each character's Unicode point value according to the string conversion of each element.
+* *returns:* The new length property of the object upon which the method was called. 
+```javascript
+var arr = [1,2];
+
+arr.unshift(0); // result of call is 3, the new array length
+// arr is [0,1,2]
+
+arr.unshift(-2, -1): // = 5
+// arr is [-2, -1, -, 1, 2]
+
+arr.unshift([-3]);
+// arr is [[-3], -2, -1, 0, 1, 2]
+```
