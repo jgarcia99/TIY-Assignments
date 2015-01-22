@@ -424,5 +424,17 @@ if (statesUS.length > 50) {
 
 ```
 
+#### [`Array.prototype.pop()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop)
+
+* *result:* removes the LAST element from an array and returns that element/caller. arr.pop()
+* *parameters:* No you call it at the end of a object.
+* *returns:* Back to the caller; 
+```javascript
+var myFish = ['angel', 'clown', 'mandarin', 'stureon'];
+console.log(myFish); // ['angel', 'clown', 'mandarin', 'sturgeon']
+var popped = myFish.pop();
+console.log(myFish); // ['angel', 'clown', 'mandarin']
+console.log(popped); // 'sturgeon'
+```
 
 
