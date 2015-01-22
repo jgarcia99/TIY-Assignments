@@ -43,3 +43,14 @@ function div(A, B){
 //console.log(prod(4,5));
 
 assert.equal(add(4, 3),19)
+
+
+var assert = plus('assert');
+
+var one = 1;        
+
+function plus(one) {
+    return one + one;                
+}
+
+ assert(plus("one", "one") === 2);
