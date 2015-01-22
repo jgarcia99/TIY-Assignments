@@ -392,3 +392,19 @@ while (i < 5) {
    n += i;
 }
 ```
+---
+### Literal: `Array` (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Values,_variables,_and_literals#Array_literals)
+
+* *symbol:* `[ ]`
+* *pronunciation:* "array", "new array"
+* *examples:*
+```javascript
+var name = ["element1", "element2","element3"];
+var employers = ["Sam","Sway","Jared"];
+var obj ={prop:["element0","element1","element2"]};
+var fish = ["Lion", , "Angel"];
+var myList = [ , 'home', , 'school'];
+```
+
+
+
