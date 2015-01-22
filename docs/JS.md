@@ -392,7 +392,7 @@ while (i < 5) {
    n += i;
 }
 ```
----
+
 ### Literal: `Array` (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Values,_variables,_and_literals#Array_literals)
 
 * *symbol:* `[ ]`
@@ -404,6 +404,24 @@ var employers = ["Sam","Sway","Jared"];
 var obj ={prop:["element0","element1","element2"]};
 var fish = ["Lion", , "Angel"];
 var myList = [ , 'home', , 'school'];
+```
+### Property: `Array.length` (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length)
+
+* *symbol:* `arr.length`
+* *pronunciation:* "length", "property", "32-bit integer",
+* *examples:*
+```javascript
+var numbers = [1,2,3,4,5];
+
+for (var i = 0; i < numbers.length; i++) {
+    numbers[i] *=2;
+};
+// numbers is now [2, 4, 6, 8, 10]
+
+if (statesUS.length > 50) {
+    statesUS.length = 50;
+}
+
 ```
 
 
