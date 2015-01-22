@@ -393,7 +393,8 @@ while (i < 5) {
 }
 ```
 
-### Literal: `Array` (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Values,_variables,_and_literals#Array_literals)
+### [Literal: Array] 
+(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Values,_variables,_and_literals#Array_literals)
 
 * *symbol:* `[ ]`
 * *pronunciation:* "array", "new array"
@@ -405,7 +406,8 @@ var obj ={prop:["element0","element1","element2"]};
 var fish = ["Lion", , "Angel"];
 var myList = [ , 'home', , 'school'];
 ```
-### Property: `Array.length` (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length)
+### [Property: Array.length] 
+(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length)
 
 * *symbol:* `arr.length`
 * *pronunciation:* "length", "property", "32-bit integer",
