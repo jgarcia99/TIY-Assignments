@@ -272,10 +272,96 @@ var assert = require('assert');
 //    assert.equal(plus("three","nine"), 12);
 //});
 
-function plus(A,B) {
-    return(13);
+//function plus(A,B) {
+//    return(13);
+//}
+//
+//it('should plus "three" and "ten"', function() {
+//    assert.equal(plus("three","ten"), 13);
+//});
+
+//function plus(A,B) {
+//    return(4);
+//}
+//
+//it('should plus "four" and "zero"', function() {
+//    assert.equal(plus("four","zero"), 4);
+//});
+
+//function plus(A,B) {
+//    return(5)
+//}
+//
+//it('should plus "four" and "one"', function(){
+//    assert.equal(plus("four","one"), 5);
+//}); 
+
+//function plus (A,B) {
+//    return(6);
+//}
+//
+//it('should plus "four" and "two"', function() {
+//    assert.equal(plus("four", "two"), 6);
+//});
+
+//function plus (A,B) {
+//    return(7);
+//}
+//
+//it('should plus "four" and "three"', function(){
+//    assert.equal(plus("four", "three"), 7);
+//});
+//
+//function plus (A,B) {
+//    return (8);
+//}
+//
+//it('should plus "four" and "five"', function(){
+//    assert.equal(plus("four", "four"), 8);
+//});
+
+//function plus (A,B) {
+//    return(9);
+//}
+//
+//it('should plus "four" and "six"', function(){
+//    assert.equal(plus("four","five"), 9);
+//});
+
+//function plus(A,B) {
+//    return (10);
+//}
+//
+//it('should plus "four" and "seven"', function() {
+//    assert.equal(plus("four", "six"), 10);
+//});
+
+//function plus(A,B) {
+//    return(11);
+//}
+//
+//it('should plus "four" and "eight"', function(){
+//    assert.equal(plus("four","eight"), 11);
+//});
+
+//function plus(A,B) {
+//    return(12);
+//}
+//
+//it('should plus "four" and "nine"', function(){
+//    assert.equal(plus("four","nine"), 12);
+//});
+//
+//function plus (A,B) {
+//    return(13);
+//}
+//
+//it('should plus "four" and "ten"', function () {
+//    assert.equal(plus("four","ten"), 13);
+//});
+
+function plus (A,B) {
+    return(14);
 }
 
-it('should plus "three" and "ten"', function () {
-    assert.equal(plus("three","ten"), 13);
-});
+it('should plus "four" and "
