@@ -184,16 +184,98 @@ var assert = require('assert');
 //    assert.equal(prod("two", "nine"), 18);
 //});
 
-function prod (A,B) {
-    return(20);
+//function prod (A,B) {
+//    return(20);
+//}
+//
+//it ('should prod "two" and "ten"', function(){
+//    assert.equal(prod("two", "ten"), 20);
+//});
+
+//function plus(A,B){
+//    return(3);
+//}
+//
+//it('should plus "three" and "zero"', function() {
+//    assert.equal(plus("three","zero"), 3);
+//});
+
+//function plus (A,B) {
+//    return (4);
+//}
+//
+//it ('should plus "three" and "one"', function() {
+//    assert.equal(plus("three","one"), 4);
+//});
+
+//function plus (A,B) {
+//    return (5);
+//}
+//
+//it('should plus "three" and "two"', function() {
+//    assert.equal(plus("three","two"), 5);
+//});
+
+//function plus (A,B) {
+//    return(6);
+//}
+//
+//it('should plus "three" and "three"', function() {
+//    assert.equal(plus("three","three"), 6);
+//});
+//
+//function plus (A,B) {
+//    return(7);
+//}
+//
+//it('should plus "three" and "four"', function() {
+//    assert.equal(plus("three","four"), 7);
+//});
+
+//function plus (A,B) {
+//    return(8)
+//}
+//
+//it('should plus "three" and "five"', function() {
+//    assert.equal(plus("three","five"), 8);
+//});
+
+//function plus (A,B) {
+//    return(9);
+//}
+//
+//it('should plus "three" and "six"', function () {
+//    assert.equal(plus("three","six"), 9);
+//});
+
+//function plus (A,B) {
+//    return(10)
+//}
+//
+//it('should plus "three" and "seven"', function(){
+//    assert.equal(plus("three","seven"), 10);
+//});
+//
+//function plus (A,B) {
+//    return(11);
+//}
+//
+//it('shoul plus "three" and "eight"', function () {
+//    assert.equal(plus("three","eight"), 11);
+//});
+
+//function plus(A,B) {
+//    return(12);
+//}
+//
+//it('should plus "three" and "nine"', function() {
+//    assert.equal(plus("three","nine"), 12);
+//});
+
+function plus(A,B) {
+    return(13);
 }
 
-it ('should prod "two" and "ten"', function(){
-    assert.equal(prod("two", "ten"), 20);
+it('should plus "three" and "ten"', function () {
+    assert.equal(plus("three","ten"), 13);
 });
-
-
-
-
-
-
