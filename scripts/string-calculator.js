@@ -779,10 +779,10 @@ var assert = require('assert');
 //    assert.equal(plus("eight","nine"), 17);
 //});
 
-function plus (A,B) {
-    return (18);
-}
-
-it('should plus "eight" and"ten"', function(){
-    assert.equal(plus("eight","ten"), 18);
-});
+//function plus (A,B) {
+//    return(18);
+//}
+//
+//it('should plus "eight" and "ten"', function() {
+//    assert.equal(plus("eight","ten"), 18);
+//});
