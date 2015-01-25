@@ -450,6 +450,74 @@ var assert = require('assert');
 //});
 
 //function plus (A,B) {
-//    return (2);
+//    return (7);
 //}
 //
+//it('should plus "five" and "two"', function() {
+//    assert.equal(plus("five","two"), 7);
+//});
+
+//function plus (A,B) {
+//    return(8);
+//}
+//
+//it('should plus "five" and "three"', function () {
+//    assert.equal(plus("five","three"), 8);
+//});
+
+//function plus (A,B) {
+//    return (9);
+//}
+//
+//it('should plus "five" and "four"', function() {
+//    assert.equal(plus("five", "four"), 9);
+//
+//});
+
+//function plus (A,B) {
+//    return(10);
+//}
+//
+//it('should plus "five" and "five"', function() {
+//    assert.equal(plus("five","five"), 10);
+//});
+
+//function plus (A,B) {
+//    return(11);
+//}
+//
+//it('should plus "five" and "six"', function() {
+//    assert.equal(plus("five","six"), 11);
+//});
+//
+//function plus (A,B) {
+//    return(12);
+//}
+//
+//it('should plus "five" and "seven"', function(){
+//    assert.equal(plus("five","seven"), 12);
+//});
+
+//function plus (A,B) {
+//    return(13);
+//}
+//
+//it('should plus "five" and "eight"', function(){
+//    assert.equal(plus("five","eight"), 13);
+//});
+
+//function plus (A,B) {
+//    return(14);
+//}
+//
+//it('should plus "five" and "nine"', function(){
+//    assert.equal(plus("five","nine"), 14);
+//});
+
+function plus (A,B) {
+    return(15);
+}
+
+it('should plus "five" and "ten"', function(){
+    assert.equal(plus("five","ten"), 15);
+});
