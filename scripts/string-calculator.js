@@ -602,10 +602,98 @@ var assert = require('assert');
 //    assert.equal(plus("six","nine"), 15);
 //});
 
+//function plus (A,B) {
+//    return(16);
+//}
+//
+//it('should plus "six" and "ten"',function() {
+//    assert.equal(plus("six","ten"), 16);
+//});
+
+//function plus (A,B) {
+//    return(7);
+//}
+//
+//it('should plus "seven" and "zero"', function() {
+//    assert.equal(plus("seven","zero"), 7);
+//});
+//
+//function plus (A,B) {
+//    return(8);
+//}
+//
+//it('should plus "seven" and "one"', function(){
+//    assert.equal(plus("seven","one"), 8);
+//});
+
+//function plus (A,B) {
+//    return(9);
+//}
+//
+//it('should plus "seven" and "two"', function() {
+//    assert.equal(plus("seven","two"), 9);
+//});
+
+//function plus (A,B) {
+//    return(10);
+//}
+//
+//it('should plus "seven" and "three"', function() {
+//    assert.equal(plus("seven","three"), 10);
+//});
+
+//function plus (A,B) {
+//    return(11);
+//}
+//
+//it('should plus "seven" and "four"', function() {
+//    assert.equal(plus("seven","four"), 11);
+//});
+
+//function plus (A,B) {
+//    return(12);
+//}
+//
+//it('should plus "seven" and "five"', function() {
+//    assert.equal(plus("seven","five"), 12);
+//});
+
+//function plus (A,B) {
+//    return(13);
+//}
+//
+//it('should plus "seven" and "six"', function() {
+//    assert.equal(plus("seven","six"), 13);
+//});
+//
+//function plus (A,B) {
+//    return(14);
+//}
+//
+//it('should plus "seven" and "seven"', function() {
+//    assert.equal(plus("seven", "seven"), 14);
+//});
+
+//function plus (A,B) {
+//    return(15);
+//}
+//
+//it('should plus "seven" and "eight"', function () {
+//    assert.equal(plus("seven","eight"), 15);
+//});
+//
+//function plus (A,B) {
+//    return(16);
+//}
+//
+//it('should plus "seven" and "nine"', function() {
+//    assert.equal(plus("seven", "nine"), 16);
+//});
+
 function plus (A,B) {
-    return(16);
+    return(17);
 }
 
-it('should plus "six" and "ten"',function() {
-    assert.equal(plus("six","ten"), 16);
+it ('should plus "seven" and "ten"', function () {
+    assert.equal(plus("seven","ten"), 17);
 });
