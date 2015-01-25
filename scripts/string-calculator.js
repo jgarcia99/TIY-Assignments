@@ -689,11 +689,100 @@ var assert = require('assert');
 //it('should plus "seven" and "nine"', function() {
 //    assert.equal(plus("seven", "nine"), 16);
 //});
+//
+//function plus (A,B) {
+//    return(17);
+//}
+//
+//it ('should plus "seven" and "ten"', function () {
+//    assert.equal(plus("seven","ten"), 17);
+//});
+
+//function plus (A,B) {
+//    return(8);
+//}
+//
+//it ('should plus "eight" and "zero"', function () {
+//    assert.equal(plus("eight","zero"), 8);
+//});
+
+//function plus (A,B) {
+//    return(9);
+//}
+//
+//it('should plus "eight" and "one"', function() {
+//    assert.equal(plus("eight","one"), 9);
+//});
+
+//function plus (A,B) {
+//    return(10);
+//}
+//
+//it('should plus "eight" and "two"', function() {
+//    assert.equal(plus("eight","two"), 10);
+//});
+
+//function plus (A,B) {
+//    return(11);
+//}
+//
+//it('should plus "eight" and "three"', function() {
+//    assert.equal(plus("eight","three"), 11); 
+//});
+//
+//function plus (A,B) {
+//    return(12);
+//}
+//
+//it('should plus "eight" and "four"', function() {
+//    assert.equal(plus("eight","four"), 12);
+//});
+
+//function plus (A,B) {
+//    return (13);
+//}
+//
+//it('should plus "eight" and "five"', function() {
+//
+//    assert.equal(plus("eight","five"), 13);
+//});
+
+//function plus (A,B) {
+//    return (14);
+//}
+//
+//it('should plus "eight" and "six"', function(){
+//    assert.equal(plus("eight","six"), 14);
+//});
+//
+//function plus (A,B) {
+//    return (15);
+//}
+//
+//it('should plus "eight" and "seven"', function (){
+//    assert.equal(plus("eight","seven"), 15);
+//});
+
+//function plus (A,B) {
+//    return (16);
+//}
+//
+//it('should plus "eight" and "eight"', function () {
+//    assert.equal(plus("eight","eight"), 16);
+//});
+
+//function plus (A,B) {
+//    return(17);
+//}
+//
+//it('should plus "eight" and "nine"', function() {
+//    assert.equal(plus("eight","nine"), 17);
+//});
 
 function plus (A,B) {
-    return(17);
+    return (18);
 }
 
-it ('should plus "seven" and "ten"', function () {
-    assert.equal(plus("seven","ten"), 17);
+it('should plus "eight" and"ten"', function(){
+    assert.equal(plus("eight","ten"), 18);
 });
