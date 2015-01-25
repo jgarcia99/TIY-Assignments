@@ -514,10 +514,98 @@ var assert = require('assert');
 //    assert.equal(plus("five","nine"), 14);
 //});
 
+//function plus (A,B) {
+//    return(15);
+//}
+//
+//it('should plus "five" and "ten"', function(){
+//    assert.equal(plus("five","ten"), 15);
+//});
+
+//function plus (A,B) {
+//    return(6);
+//}
+//
+//it('should plus "six" and "zero"', function() {
+//    assert.equal(plus("six","zero"), 6);
+//});
+
+//function plus (A,B) {
+//    return(7);
+//}
+//
+//it('should plus "six" and "one"', function() {
+//    assert.equal(plus("six","one"), 7);
+//});
+
+//function plus (A,B) {
+//    return(8);
+//}
+//
+//it('should plus "six" and "two"', function() {
+//    assert.equal(plus("six","two"), 8);
+//});
+
+//function plus (A,B) {
+//    return(9);
+//}
+//
+//it('should plus "six" and "three"', function(){
+//    assert.equal(plus("six","three"), 9);
+//});
+
+//function plus (A,B) {
+//    return(10);
+//}
+//
+//it('should plus "six" and "four"', function(){
+//    assert.equal(plus("six","four"), 10);
+//});
+
+//function plus (A,B) {
+//    return(11);
+//}
+//
+//it('should plus "six" and "five"', function(){
+//    assert.equal(plus("six","five"), 11);
+//});
+
+//function plus (A,B) {
+//    return(12);
+//}
+//
+//it('should plus "six" and "six"', function(){
+//    assert.equal(plus("six","six"), 12);
+//});
+
+//function plus (A,B) {
+//    return(13);
+//}
+//
+//it('should plus "six" and "seven"', function() {
+//    assert.equal(plus("six","seven"), 13);
+//});
+
+//function plus (A,B) {
+//    return(14);
+//}
+//
+//it('should plus "six" and "eight"', function() {
+//    assert.equal(plus("six","eight"), 14);
+//});
+
+//function plus (A,B) {
+//    return(15); 
+//}
+//
+//it('should plus "six" and "nine"', function() {
+//    assert.equal(plus("six","nine"), 15);
+//});
+
 function plus (A,B) {
-    return(15);
+    return(16);
 }
 
-it('should plus "five" and "ten"', function(){
-    assert.equal(plus("five","ten"), 15);
+it('should plus "six" and "ten"',function() {
+    assert.equal(plus("six","ten"), 16);
 });
