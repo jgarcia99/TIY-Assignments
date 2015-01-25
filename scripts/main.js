@@ -16,7 +16,25 @@ var board = [
     ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'],
     ['r', 'n', 'b', 'q', 'k', 'b', 'n', 'r'] ];
 
+
 console.log(board.join('\n') + '\n\n');
+
+var printBoard = function() {
+    console.log(board.join('\n'));
+}
+
+function move (fromX, fromY, toX, toY){
+    board[4][4] = board[6][4];
+    board[6][4] = ' ';
+    printBoard();
+ 
+};
+
+
+
+
+
+
 
 
 // Move King's Pawn forward 2
@@ -25,10 +43,9 @@ console.log(board.join('\n') + '\n\n');
 //console.log(board.join('\n'));
 
 // Move Queens Pawn forward 2
-board[5][5] = board [7][5];
-board[7][5] = ' ';
-console.log(board.join('\n'));
-//
-//function print (board) {
-//    
-//}
+//board[4][3] = board [6][3];
+//board[6][3] = ' ';
+//console.log(board.join('\n'));
+
+
+
