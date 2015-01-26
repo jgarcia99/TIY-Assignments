@@ -1,56 +1,51 @@
-var assert = require('assert');
-
-
-/**
- * @param Number A
- * @param Number B
- * @return sum of A and B
- */
-function add(A , B) {
+var board = [
+   
     
-    return(A + B);
-}
-
-/**
- * @param Number A
- * @param Number B
- * @return difference of A and B
- */
-function diff(A, B){
     
-    return(A-B);
     
+    
+    
+    
+    
+    ['R', 'N', 'B', 'Q', 'K', 'B', 'N', 'R'],
+    ['P', 'P', 'P', 'P', 'P', 'P', 'P', 'P'],
+    [' ', ' ', ' ', ' ', ' ', ' ', ' ', ' '],
+    [' ', ' ', ' ', ' ', ' ', ' ', ' ', ' '],
+    [' ', ' ', ' ', ' ', ' ', ' ', ' ', ' '],
+    [' ', ' ', ' ', ' ', ' ', ' ', ' ', ' '],
+    ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'],
+    ['r', 'n', 'b', 'q', 'k', 'b', 'n', 'r'] ];
+
+
+console.log(board.join('\n') + '\n\n');
+
+var printBoard = function() {
+    console.log(board.join('\n'));
 }
 
-/**
- * @param Number A
- * @param Number B
- * @return product of A times B
- */
-function prod(A, B){
-    return(A*B);
-}
-
-/**
- * @param Number A
- * @param Number B
- * @return division of A by B
- */
-function div(A, B){
-    return(A / B);
-}
-
-//console.log(prod(4,5));
-
-assert.equal(add(4, 3),19)
+function move (fromX, fromY, toX, toY){
+    board[4][4] = board[6][4];
+    board[6][4] = ' ';
+    printBoard();
+ 
+};
 
 
-var assert = plus('assert');
 
-var one = 1;        
 
-function plus(one) {
-    return one + one;                
-}
 
- assert(plus("one", "one") === 2);
+
+
+
+// Move King's Pawn forward 2
+//board[4][4] = board[6][4];
+//board[6][4] = ' ';
+//console.log(board.join('\n'));
+
+// Move Queens Pawn forward 2
+//board[4][3] = board [6][3];
+//board[6][3] = ' ';
+//console.log(board.join('\n'));
+
+
+
