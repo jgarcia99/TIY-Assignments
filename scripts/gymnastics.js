@@ -1,33 +1,20 @@
 var assert = require('assert');
 
-var events = require('../apis/github/users/jgarcia99/events.json')
-
-assert(events.length);
+var events = 
+require('../apis/github/users/jgarcia99/events.json');
 
 function answer () {
     return {
-        'total" : events.length
+        'total': events.length 
     }
-} //END answer
+} // END answer
 
-describe('the setup', function() {
-    it('should have events', function() {
-        assert(events);
-});
-    
-it('should have events', function() {
-    assert(events);
-    assert(typeof answer == 'function');
-    });
-});
+assert(events);
+assert(events);
+assert(typeof answer == 'function');
 
-describe('the answer', function () {
-var theAnswer = answer();
+var theAnswer = answer ();
 
-    it('should have 30 total events', function() {
-        assert(answer().total === 30);
-    });
-    
-    it('should have some "PushEvent' entries', function() {
-       as
-       }
+assert.equal(theAnswer.total, 30);
+assert.(theAnswer.PushEvents);
+assert(theAnswer.PushEvents.total); 
