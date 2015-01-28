@@ -117,7 +117,7 @@ function toEnglish (a) {
     } else {
         return "this is not number 10";
     }
-} 
+}; 
 
 it ('should equal the english word "ten" instead of "ten"', function () {
     assert.equal(toEnglish(10), "ten");
