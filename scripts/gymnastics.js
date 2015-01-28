@@ -10,25 +10,55 @@ function answer() {
     var pushEvents = events.filter(function(item){
         return item.type == 'PushEvent';
     });
-    var days = events.filter(function() {
-        return item.type == 'updated_at';
+    
+    var pullRequests = events.filter(function(item){
+        return item.type == 'PullRequestEvent';
+     });   
+    var issueComment = events.filter(function(item) {
+        return item.type == 'IssueCommentEvent'
     });
+       var createEvent = events.filter(function(item){
+        return item.type == 'CreateEvent';
+    });
+    var deleteEvent = events.filter(function(item){
+        return item.type == 'DeleteEvent';
+    });
+    var issuesEvent = events.filter(function(item){
+        return item.type == 'IssuesEvent';
+    });
+    
     return { 
         'total': events.length,
         'PushEvent': {
-            'total': pushEvents.length 
+            'total': pushEvents.length, 
+        },
+        'PullRequestEvent': {
+            'total': pullRequests.length,
+        },
+        'IssueCommentEvent': {
+        'total': issueComment.length,
+        },
+        'CreateEvent': {
+            'total': createEvent.length,
+        },
+        'DeleteEvent': {
+            'total': deleteEvent.length,
+        },
+        'IssuesEvent': {
+            'total': issuesEvent.length,
         }
-            
-    };
-    console.log(pushEvents.length);
+        
+        };
+   
 }
 
-console.log(answer());
+console.log(answer(events.length));
+
 var theAnswer = answer();
 
     it('should return that answer exists, and test for total events', function() {
-        assert(answer);
-        assert(events.length === 30);
+        assert(events);
+       
     });
 
     it('should return the length when calling answer function', 
@@ -38,8 +68,8 @@ function() {
 
     
     it('should have "pushEvent", and has a total count of push', function() {
-        assert(theAnswer.PushEvents);
-        assert.equal(theAnswer.PushEvents.total);
+        assert(theAnswer.PushEvent);
+        assert.(theAnswer.PushEvent.total);
     });
 
 
