@@ -1,0 +1,22 @@
+{
+  "name": "TIY-Assignments",
+  "version": "1.0.0",
+  "description": "my iron yard repo",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jgarcia99/TIY-Assignments.git"
+  },
+  "author": "Josuel Garcia <garciajosuel@yahoo.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgarcia99/TIY-Assignments/issues"
+  },
+  "homepage": "https://github.com/jgarcia99/TIY-Assignments"
+}
