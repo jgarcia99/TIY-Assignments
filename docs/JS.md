@@ -567,3 +567,125 @@ arr.unshift(-2, -1): // = 5
 arr.unshift([-3]);
 // arr is [[-3], -2, -1, 0, 1, 2]
 ```
+
+#### [`Array.prototype.forEach()`]
+* *result:* `executes a provided function once per array element.`
+* *parameters:* `callback(currentValue,index,array),thisArg.`
+* *returns:* 
+* *example:*
+```
+function logArrayElements(element, index, array) {
+  console.log('a[' + index + '] = ' + element);
+}
+
+// Note ellision, there is no member at 2 so it isn't visited
+[2, 5, , 9].forEach(logArrayElements);
+// logs:
+// a[0] = 2
+// a[1] = 5
+// a[3] = 9
+```
+
+#### [`Array.prototype.every()`]
+* _params:_
+* `callback`: `Function` to test each element against * _params:_
+* `item`: element to process
+* `index`: index of processed element
+* `all`: array instance
+* _returns:_ `Boolean`
+* `thisArg`: `Object` to which to bind `callback`
+* _returns:_ `Boolean` whether `callback` returns `true` for _every_ element
+* _example:_
+```javascript
+function every(anArray, callback){
+  var hasFailed = false; // it hasn't has it?
+
+  // iterate...
+  anArray.foreach(function(item, index, all){
+    if ( hasFailed ) return; // one failure ruins everything...
+
+    hasFailed = !callback(item, index, all); // why invert here?
+  });
+
+  return !hasFailed; // Another inverse?
+  // What if `anArray` is empty?
+}
+```
+
+#### [`Array.prototype.some()`]
+
+ *result:* `tests whether some element in the array passes the test implemented by the provided function.`
+* *parameters:* `callback(currentValue,index,array),thisArg.`
+* *returns:* `True or False`
+* *example:*
+```
+function isBiggerThan10(element, index, array) {
+  return element > 10;
+}
+[2, 5, 8, 1, 4].some(isBiggerThan10);  // false
+[12, 5, 8, 1, 4].some(isBiggerThan10); // true
+```
+#### [`Array.prototype.filter()`]
+
+ *result:* `Creates a new array with all of the elements of this array for which the provided filtering function returns true.`
+* *parameters:* `callback(currentValue,index,array),thisArg.`
+* *returns:* `True or False`
+* *example:*
+```
+function isBigEnough(element) {
+  return element >= 10;
+}
+var filtered = [12, 5, 8, 130, 44].filter(isBigEnough);
+// filtered is [12, 130, 44]
+```
+
+#### [`Array.prototype.map()`]
+
+ *result:* `Creates a new array with the results of calling a provided function on every element in this array.`
+* *parameters:* `callback(currentValue,index,array),thisArg.`
+* *returns:* 
+* *example:*
+```
+var numbers = [1, 4, 9];
+var doubles = numbers.map(function(num) {
+  return num * 2;
+});
+// doubles is now [2, 8, 18]. numbers is still [1, 4, 9]
+```
+
+#### [`Array.prototype.reduce()`]
+
+ *result:* `Apply a function against an accumulator and each value of the array (from left-to-right) as to reduce it to a single value.`
+* *parameters:* `previousValue, currentValue, index, array, initialValue.`
+* *returns:* `number(value)`
+* *example:*
+```
+[0, 1, 2, 3, 4].reduce(function(previousValue, currentValue, index, array) {
+  return previousValue + currentValue;
+}, 10);
+
+Example: Sum up all values within an array
+
+var total = [0, 1, 2, 3].reduce(function(a, b) {
+  return a + b;
+});
+// total == 6
+Example: Flatten an array of arrays
+
+var flattened = [[0, 1], [2, 3], [4, 5]].reduce(function(a, b) {
+  return a.concat(b);
+});
+// flattened is [0, 1, 2, 3, 4, 5]
+```
+
+#### [`Array.prototype.reduceRight()`]
+
+ *result:* `Apply a function against an accumulator and each value of the array (from right-to-left) as to reduce it to a single value.`
+* *parameters:* `previousValue, currentValue, index, array, initialValue.`
+* *returns:* `number(value)`
+* *example:*
+```
+"[0, 1, 2, 3, 4].reduce(function(previousValue, currentValue, index, array) {
+  return previousValue + currentValue;
+}, 10);
+```
