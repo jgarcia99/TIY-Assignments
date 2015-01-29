@@ -19,7 +19,7 @@
   * not just for `Array`; can be run with `Object` and `String` as `collection`
   * `predicate` can be `Object` or `String`...?
 
-### [``](http://devdocs.io/lodash/index#last)
+### [`_.last`](http://devdocs.io/lodash/index#last)
 
 * _params:_
   * `Array`|`Object`|`String` `collection` to iterate over
