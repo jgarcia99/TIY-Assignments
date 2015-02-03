@@ -107,18 +107,34 @@ textarea {
 
 
 .form-control {
-    background-color: #47A3DA !important;
-    color: white !important;
-    border: 5px solid white !important;
+    background-color: #47A3DA;
+    color: white;
+    border: 5px solid white;
+    margin-bottom: 3ex;
+    
+}
+
+.form-control::-webkit-input-placeholder {
+    color: #306B9A;
+}
+
+select {
+    background-color: #47A3DA;
+    color: white;
     margin-bottom: 3ex;
 }
 
 
+button {
+    color: white;
+    background-color: #1478B1;
+    border: 10px solid #1478B1;
+    
+}
 
-
-
-
-
+.col-xs-12 {
+    text-align: center;
+}
 
 
 
