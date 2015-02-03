@@ -97,127 +97,68 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-  th {
-                border: 1px solid black;
-                background-color: darkgray;
-            }
-           
-           tbody th {
-                border: 1px solid black;
-               background-color: darkgray;
-           }
-           
-           tbody td {
-                width: 10%; 
-               padding-bottom: 10%;
-               border: 1px solid black;
-           }
-           
-          tbody :nth-child(even) td:nth-child(even),
-          tbody :nth-child(odd) td:nth-child(odd) 
-           {
-            background-color: red;
-          }
-           
-           th {
-            background-color: darkgray;
-               padding: 2em;
-           }
-           
-          table {
-            width: 90%;
-              margin: 0 auto;
-          }
-           
-          
-           
-        .piece  {
-            border: 1px solid;
-            width: 10em;
-            height: 19ex;
-            text-align: center;
-            font-size: 200%;
-        
-            
-        
-            
-        }
-
-        :before {
-            font-size: 7vw;
-            width: 40pt;
-            height: 40pt;
-            vertical-align: center;
-        }
-        
-        td {
-            position: relative;
-        }
-
-        td:before {
-          
-            position: absolute;
-        }
-        
-    
-        .queen-white:before {
-            content: '\2655';
-            
-        }
-
-        
-        .king-white:before {
-            content: '\2654';
-            
-        }
 
 
-        .rook-white:before {
-            content: '\2656';
-        }
+h2 {
+		border-bottom: 1px solid gray;
+		padding-bottom: 1ex;
+
+	}
+
+	h2 > a {
+		text-decoration: none;
+		color: blue;
 
 
-        .bishop-white:before {
-            content: '\2657';
-        }
 
-        .knight-white:before {
-            content: '\2658';
-        }
+	}
 
-    .pawn-white:before {
-            content: '\2659';
-        }
+	h2 > a:before {
+		content: "\2799";
+		padding-right: 0.5em;
+		width: 1em;
+		color: gray;
+		display: inline-block;
+	}
+
+	h2 > a:hover:before {
+		content: '2798';
+		color: blue;
+	}
+
+	h2 + article {
+		display: none;
+	}
+
+	h2 + article {
+		display: block;
+	}
+	p {
+		display: none;
+
+	}
+
+	.open {
+		display: block;
+		
+	}
+
+	h2.open > a:before {
+		content: '\2797';
+	}
 
 
-    .knight-black:before {
-            content: '\265E';
-        }
 
 
-    .rook-black:before {
-            content: '\265C';
-        }
 
-    .king-black:before {
-            content: '\265A';
-        }
 
-    .queen-black:before {
-            content: '\265B';
-        }
 
-    .bishop-black:before {
-            content: '\265D';
-        }
 
-    .pawn-black:before {
-        content: '\265F';
-    }
-    
-    td:hover {
-        background-color: blue;
-    }
+
+
+
+
+
 
 /* ==========================================================================
    Helper classes
@@ -326,15 +267,23 @@ textarea {
    Modify as content requires.
    ========================================================================== */
 
-@media only screen and (min-width: 35em) {
-    /* Style adjustments for viewports that meet the condition */
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: @screen-sm-min) { 
+
 }
 
-@media print,
-       (-o-min-device-pixel-ratio: 5/4),
-       (-webkit-min-device-pixel-ratio: 1.25),
-       (min-resolution: 120dpi) {
-    /* Style adjustments for high resolution devices */
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: @screen-md-min) { 
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: @screen-lg-min) { 
+
+
 }
 
 /* ==========================================================================
