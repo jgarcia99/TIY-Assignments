@@ -97,61 +97,21 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-h2 {
-   color: red; 
+
+
+.body {
+    background-color: #47A3DA;
+    color: white;
     
 }
 
 
-h2 {
-		border-bottom: 5px solid gray;
-		padding-bottom: 1ex;
-
-	}
-
-	h2 > a {
-		text-decoration: none;
-		color: blue;
-
-
-
-	}
-
-	h2 > a:before {
-		content: "\2799";
-		padding-right: 0.5em;
-		width: 1em;
-		color: gray;
-		display: inline-block;
-	}
-
-	h2 > a:hover:before {
-		content: '2798';
-		color: blue;
-	}
-
-	h2 + article {
-		display: none;
-	}
-
-	h2 + article {
-		display: block;
-	}
-	p {
-		display: none;
-
-	}
-
-	.open {
-		display: block;
-		
-	}
-
-	h2.open > a:before {
-		content: '\2797';
-	}
-
-
+.form-control {
+    background-color: #47A3DA !important;
+    color: white !important;
+    border: 5px solid white !important;
+    margin-bottom: 3ex;
+}
 
 
 
@@ -271,23 +231,15 @@ h2 {
    Modify as content requires.
    ========================================================================== */
 
-/* Extra small devices (phones, less than 768px) */
-/* No media query since this is the default in Bootstrap */
-
-/* Small devices (tablets, 768px and up) */
-@media (min-width: @screen-sm-min) { 
-
+@media only screen and (min-width: 35em) {
+    /* Style adjustments for viewports that meet the condition */
 }
 
-/* Medium devices (desktops, 992px and up) */
-@media (min-width: @screen-md-min) { 
-
-}
-
-/* Large devices (large desktops, 1200px and up) */
-@media (min-width: @screen-lg-min) { 
-
-
+@media print,
+       (-o-min-device-pixel-ratio: 5/4),
+       (-webkit-min-device-pixel-ratio: 1.25),
+       (min-resolution: 120dpi) {
+    /* Style adjustments for high resolution devices */
 }
 
 /* ==========================================================================

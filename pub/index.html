@@ -14,166 +14,137 @@
 
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/main.css">
-         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+
+        
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
-        
-
     </head>
-    <body>
-        <!--[if lt IE 7]>
-            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
-
-        <!-- Add your site or application content here-->   
-        
-        
-       
-        
-        
-           <big></big> 
-        
-        
-        <div class="container">
-            <table>
-                <thead>
-                    <tr>
-                       <th></th>
-                        <th>a</th>
-                        <th>b</th>
-                        <th>c</th>
-                        <th>d</th>
-                        <th>e</th>
-                        <th>f</th>
-                        <th>g</th>
-                        <th>h</th>
-                        <th></th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <th>8</th>
-                        <td class="rook-white"> </td>
-                        <td class="knight-white"></td>
-                         <td class="bishop-white"></td>
-                        <td class="queen-white"></td>
-                         <td class="king-white"></td>
-                        <td class="bishop-white"></td>
-                         <td class="knight-white"></td>
-                         <td class="rook-white"></td>
-                        <th>8</th>
-                        
-                    </tr>
-                     <tr>
-                        <th>7</th>
-                        <td class="pawn-white"> </td>
-                        <td class="pawn-white"></td>
-                         <td class="pawn-white"></td>
-                        <td class="pawn-white"></td>
-                         <td class="pawn-white"></td>
-                        <td class="pawn-white"></td>
-                         <td class="pawn-white"></td>
-                          <td class="pawn-white"></td>
-                           <th>7</th> 
-
-
-                    </tr>
-                     <tr>
-                        <th>6</th>
-                        <td> </td>
-                        <td></td>
-                          <td></td>
-                        <td></td>
-                         <td></td>
-                        <td></td>
-                         <td></td>
-                          <td></td>
-                          <th>6</th>                       
-
-                    </tr>
-                     <tr>
-                        <th>5</th>
-                        <td></td>
-                        <td></td>
-                          <td></td>
-                        <td></td>
-                         <td></td>
-                        <td></td>
-                         <td></td>
-                          <td></td>
-                         <th>5</th>
-                    </tr>
-                     <tr>
-                        <th>4</th>
-                        <td></td>
-                        <td></td>
-                          <td></td>
-                        <td></td>
-                         <td></td>
-                        <td></td>
-                         <td></td>
-                          <td></td>
-                         <th>4</th>
-                    </tr>
-                     <tr>
-                        <th>3</th>
-                        <td></td>
-                        <td></td>
-                          <td></td>
-                        <td></td>
-                         <td></td>
-                        <td></td>
-                         <td></td>
-                          <td></td>
-                          <th>3</th>
-                    </tr>
-                     <tr>
-                        <th>2</th>
-                        <td class="pawn-black"></td>
-                        <td class="pawn-black"></td>
-                          <td class="pawn-black"></td>
-                        <td class="pawn-black"></td>
-                         <td class="pawn-black"></td>
-                        <td class="pawn-black"></td>
-                         <td class="pawn-black"></td>
-                          <td class="pawn-black"></td>
-                          <th>>2</th>
-                    </tr>
-                     <tr>
-                        <th>1</th>
-                        <td class="rook-black"></td>
-                        <td class="knight-black"></td>
-                          <td class="bishop-black"></td>
-                        <td class="queen-black"></td>
-                         <td class="king-black"></td>
-                        <td class="bishop-black"></td>
-                         <td class="knight-black"></td>
-                          <td class="rook-black"></td>
-                          <th>1</th>
-                         
-                    </tr>
+    <body class="body">
+        <div class="container"> <!----container----->
+            <header class="col-xs-12 col-sm-12 col-md-12">
+                <h1>blueprint</h1>
+                <p>Responsive Multi-Column Form</p>
+                <div class="features-nav">
+                    <i>icon</i>
+                    <i>icon</i>
+                    <i>icon</i>
+                    <i>icon</i>
+                </div>
+            </header>    
+                <form class="col-xs-12 col-sm-6 col-md-4">
+                    <p>FIRST NAME</p>
+                    <input type="text" class="form-control" id="" placeholder="Jonathan">
                     
-                </tbody>
-            <tr>
-                       <th></th>
-                        <th>a</th>
-                        <th>b</th>
-                        <th>c</th>
-                        <th>d</th>
-                        <th>e</th>
-                        <th>f</th>
-                        <th>g</th>
-                        <th>h</th>
-                        <th></th>
-                    </tr>
+                    <p>LAST NAME</p>
+                    <input type="text" class="form-control" id="" placeholder="Doe">
+                    
+                    <p>EMAIL ADDRESS</p>
+                    <input type="text" class="form-control" id="" placeholder="jon@doe.com">
+                    
+                    <p>country</p>
+                        <select>
+                            <option>Choose a country</option>
+                            <option>France</option>
+                            <option>Italy</option>
+                            <option>Portugal</option>
+                        </select>
+                        
+                    <p>BIOGRAPHY</p>
+                        <textarea class="form-control" cols="40" rows="10">
+                        </textarea>
+                </form>
+                
+                <form class="col-xs-12  col-sm-6 col-md-4">
+                    <p>PHONE NUMBER</p>
+                        <input type="text" class="form-control" id="" placeholder="+351 999 9999">
+                    
+                    <p>AFFILIATIONS</p>
+                        <textarea class="form-control" cols="40" rows="10">
+                        </textarea>
+                
+                    
+                    <p>OCCUPATION</p>
+                        <select>
+                            <option>Choose an occupation</option>
+                            <option>Web Designer</option>
+                            <option>Web Developer</option>
+                            <option>Hybrid</option>
+                        </select>
+                        
+                    <p>CAT'S NAME</p>
+                        <input type="text" placeholder="Kitty" class="form-control">
+                    
+                    <p>FAVORITE GADGET</p>
+                        <input type="text" placeholder="Annoy-a-tron" class="form-control">
+                    
+                </form>
+            
+                <form class="col-xs-12 col-sm-12 col-md-4">
+                     <p>TYPE OF TALENT</p>
+                        <select>
+                            <option>Choose a talent</option>
+                            <option>Ninja Silence</option>
+                            <option>Sumo Power</option>
+                            <option>Samurai precision</option>
+                        </select>
+                    
+                    <p>FAVORITE DRINK</p>
+                        <input type="text" class="form-control" id="" placeholder="Green Tea">
+                    
+                     <p>SPECIAL POWER</p>
+                        <input type="text" class="form-control" placeholder="Anti-gravity">
+                    
+                    <p>WEAPON OF CHOICE</p>
+                        <input type="text" class="form-control" placeholder="Lightsaber">
+                    
+                    <p>COMMENTS</p>
+                        <textarea class="form-control" cols="40" rows="10">
+                        </textarea>
+                    
+                </form>
+            
+            <break></break>
+            
+            
+                
+                
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+              
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </div>  <!----container----->
         
-       
-        
-        
-        
-        
-        </table>
-         
-       </div>
         
         
         
@@ -181,6 +152,15 @@
         
         
         
+        
+        
+        
+        
+        
+        
+        
+        
+
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
         <script src="js/plugins.js"></script>
@@ -195,6 +175,5 @@
             r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
             ga('create','UA-XXXXX-X');ga('send','pageview');
         </script>
-       
     </body>
 </html>
