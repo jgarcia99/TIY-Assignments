@@ -111,7 +111,7 @@ textarea {
     color: white;
     border: 5px solid white;
     margin-bottom: 3ex;
-    
+    font-style: italic;
 }
 
 .form-control::-webkit-input-placeholder {
