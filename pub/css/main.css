@@ -97,10 +97,14 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+h2 {
+   color: red; 
+    
+}
 
 
 h2 {
-		border-bottom: 1px solid gray;
+		border-bottom: 5px solid gray;
 		padding-bottom: 1ex;
 
 	}

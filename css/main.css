@@ -120,48 +120,7 @@ p {
     display: none;
 }
 
-	h2 > a {
-		text-decoration: none;
-		color: blue;
-
-
-
-	}
-
-	h2 > a:before {
-		content: "\2799";
-		padding-right: 0.5em;
-		width: 1em;
-		color: gray;
-		display: inline-block;
-	}
-
-	h2 > a:hover:before {
-		content: '2798';
-		color: blue;
-	}
-
-	h2 + article {
-		display: none;
-	}
-
-	h2 + article {
-		display: block;
-	}
-
-
-	.open {
-		display: block;
-		
-	}
-
-	h2.open > a:before {
-		content: '\2797';
-	}
-
-    .fa {
-        display: inline-block;
-    }
+	
 
 
 
