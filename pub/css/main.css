@@ -109,10 +109,14 @@ button {
 }
 
 
+author {
+    font-size: 1.5em
+}
 
 
-
-
+#git-name {
+    color: gray;
+}
 
 
 
