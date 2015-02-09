@@ -97,25 +97,63 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+<<<<<<< HEAD
+=======
+
+
+.body {
+    background-color: #47A3DA;
+    color: white;
+    
+}
+>>>>>>> e1d1f9ed98344fd6a531bbb47e7317ccdd09834c
 
 li {
     list-style: none;
 }
 
+.form-control {
+    background-color: #47A3DA;
+    color: white;
+    border: 5px solid white;
+    margin-bottom: 3ex;
+    font-style: italic;
+}
 
+<<<<<<< HEAD
 button {
     background-color: #5DAA43;
     color: white;
+=======
+.form-control::-webkit-input-placeholder {
+    color: #306B9A;
+>>>>>>> e1d1f9ed98344fd6a531bbb47e7317ccdd09834c
 }
 
+select {
+    background-color: #47A3DA;
+    color: white;
+    margin-bottom: 3ex;
+}
 
 author {
     font-size: 1.5em
 }
 
+button {
+    color: white;
+    background-color: #1478B1;
+    border: 10px solid #1478B1;
+    
+}
 
+<<<<<<< HEAD
 #git-name {
     color: gray;
+=======
+.col-xs-12 {
+    text-align: center;
+>>>>>>> e1d1f9ed98344fd6a531bbb47e7317ccdd09834c
 }
 
 

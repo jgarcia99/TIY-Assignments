@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 $(document).ready(function(){
     
     var userData = $.getJSON("https://api.github.com/users/jgarcia99");
@@ -30,3 +31,6 @@ $(document).ready(function(){
 //       $("#comment-form").submit();
 //   })
 //    });  
+=======
+
+>>>>>>> e1d1f9ed98344fd6a531bbb47e7317ccdd09834c
