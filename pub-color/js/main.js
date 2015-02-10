@@ -26,7 +26,7 @@ colorTime = "#" + hhex + mhex + shex;
     
     document.getElementById('clock').innerHTML= h + ":" + m + ":" + s;
     
-    setInterval(showTime,1000);
+    setTimeout(showTime,1000);
 };
 
 showTime();
