@@ -97,65 +97,90 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+  th {
+                border: 1px solid black;
+                background-color: darkgray;
+            }
+           
+           tbody th {
+                border: 1px solid black;
+               background-color: darkgray;
+           }
+           
+           tbody td {
+                width: 10%; 
+               padding-bottom: 10%;
+               border: 1px solid black;
+           }
+           
+          tbody :nth-child(even) td:nth-child(even),
+          tbody :nth-child(odd) td:nth-child(odd) 
+           {
+            background-color: red;
+          }
+           
+           th {
+            background-color: darkgray;
+               padding: 2em;
+           }
+           
+          table {
+            width: 90%;
+              margin: 0 auto;
+          }
+           
+           .end {
+            background: darkgray
+           }
+         
+           .pawn-black {
+            font-size: 2em;
+               position: absolute;
+           }
+           
+        .piece  {
+            border: 1px solid;
+            width: 10em;
+            height: 19ex;
+            text-align: center;
+        
+            
+        
+            
+        }
+        
+        td {
+            position: relative;
+        }
+
+        td:before {
+            font-size: 7em;
+            position: absolute;
+        }
+
+        .queen:before {
+            content: '\2655';
+            font-size: 6em;
+        }
+
+        
+        .king:before {
+            content: '\2654';
+            font-size: 6em;
+        }
+
+
 <<<<<<< HEAD
+
+
+
+
 =======
 
 
-.body {
-    background-color: #47A3DA;
-    color: white;
-    
-}
->>>>>>> e1d1f9ed98344fd6a531bbb47e7317ccdd09834c
 
-li {
-    list-style: none;
-}
 
-.form-control {
-    background-color: #47A3DA;
-    color: white;
-    border: 5px solid white;
-    margin-bottom: 3ex;
-    font-style: italic;
-}
-
-<<<<<<< HEAD
-button {
-    background-color: #5DAA43;
-    color: white;
-=======
-.form-control::-webkit-input-placeholder {
-    color: #306B9A;
->>>>>>> e1d1f9ed98344fd6a531bbb47e7317ccdd09834c
-}
-
-select {
-    background-color: #47A3DA;
-    color: white;
-    margin-bottom: 3ex;
-}
-
-author {
-    font-size: 1.5em
-}
-
-button {
-    color: white;
-    background-color: #1478B1;
-    border: 10px solid #1478B1;
-    
-}
-
-<<<<<<< HEAD
-#git-name {
-    color: gray;
-=======
-.col-xs-12 {
-    text-align: center;
->>>>>>> e1d1f9ed98344fd6a531bbb47e7317ccdd09834c
-}
-
+>>>>>>> master
 
 
 
