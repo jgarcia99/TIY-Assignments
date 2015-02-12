@@ -1,28 +1,13 @@
-var assert = require('asssert');
-
-// this is the constructor 
-function Place(color,name,position() {
+function every (anArray, callback) {
     
-    this.color = color;
-    this.name = name;
-    this.position = position;
+    var hasFailed = false;
 });
 
-
-piece.prototype = {
-    position: function() {
-        
-        return this.position;
-    },
+anArray.foreach.(function(item, index,all){
+    if (hasFailed) return; // one failure ruins everything
     
-    color.prototype = {
-        color: function() {
-        return this.color;
-}
-},
-    name.prototype = {
-        name: function () {
-            return this.name;ß
-        }
-    }
-}
+});
+
+hasFailed = !caallback(item, index, all); //why invert here
+
+return !hasFailed; 
