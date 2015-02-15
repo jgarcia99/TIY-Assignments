@@ -1,8 +1,6 @@
 var events = require('../apis/github/users/jgarcia99/events.json');
 var _ = require('lodash');
 
-var totalEvents = events._.pluck(function(key) {
-    return key.type == 'Events'
-});
+var totalEvents = _.pluck(events,"type" )
 
-console.log(totalEvents);
+console.log(totalEvents.length);
