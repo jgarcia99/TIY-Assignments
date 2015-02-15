@@ -1,0 +1,3556 @@
+[
+  {
+    "id": "2582779701",
+    "type": "PushEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 27828455,
+      "name": "jgarcia99/TIY-Assignments",
+      "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments"
+    },
+    "payload": {
+      "push_id": 575167094,
+      "size": 2,
+      "distinct_size": 2,
+      "ref": "refs/heads/feature/24--helluva-ride",
+      "head": "39ba932137624312256601a3c6608193586c018d",
+      "before": "fa694b92350ebc6a3a0d71187a8f1b846d1e7e8e",
+      "commits": [
+        {
+          "sha": "7e0f63996fe21fd9c0abc14eb3290e80b87bc2b7",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "tried string calc for 3 hours",
+          "distinct": true,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/7e0f63996fe21fd9c0abc14eb3290e80b87bc2b7"
+        },
+        {
+          "sha": "39ba932137624312256601a3c6608193586c018d",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "ok new day let me start api's",
+          "distinct": true,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/39ba932137624312256601a3c6608193586c018d"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-02-15T17:05:49Z"
+  },
+  {
+    "id": "2581751839",
+    "type": "PushEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 27828455,
+      "name": "jgarcia99/TIY-Assignments",
+      "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments"
+    },
+    "payload": {
+      "push_id": 574710903,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/24--helluva-ride",
+      "head": "fa694b92350ebc6a3a0d71187a8f1b846d1e7e8e",
+      "before": "b78a391c1614f9b45140f9295878bd1563e76038",
+      "commits": [
+        {
+          "sha": "fa694b92350ebc6a3a0d71187a8f1b846d1e7e8e",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "few style changes",
+          "distinct": true,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/fa694b92350ebc6a3a0d71187a8f1b846d1e7e8e"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-02-14T11:58:06Z"
+  },
+  {
+    "id": "2581729042",
+    "type": "PushEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 27828455,
+      "name": "jgarcia99/TIY-Assignments",
+      "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments"
+    },
+    "payload": {
+      "push_id": 574700680,
+      "size": 2,
+      "distinct_size": 2,
+      "ref": "refs/heads/feature/24--helluva-ride",
+      "head": "b78a391c1614f9b45140f9295878bd1563e76038",
+      "before": "5a0ad5e1020dca719319deb490207723d7f1208e",
+      "commits": [
+        {
+          "sha": "237c51ecb2dc1854b0d4070eeff91ce407161961",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "mobile MFg website header",
+          "distinct": true,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/237c51ecb2dc1854b0d4070eeff91ce407161961"
+        },
+        {
+          "sha": "b78a391c1614f9b45140f9295878bd1563e76038",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "MFG mobile first complete",
+          "distinct": true,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/b78a391c1614f9b45140f9295878bd1563e76038"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-02-14T11:10:16Z"
+  },
+  {
+    "id": "2581706092",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 25180640,
+      "name": "TheIronYard--Orlando/FEE--2015--SPRING",
+      "url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/302",
+        "labels_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/302/labels{/name}",
+        "comments_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/302/comments",
+        "events_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/302/events",
+        "html_url": "https://github.com/TheIronYard--Orlando/FEE--2015--SPRING/issues/302",
+        "id": 57688281,
+        "number": 302,
+        "title": "24 -- Helluva Ride -- Josuel Garcia",
+        "user": {
+          "login": "jgarcia99",
+          "id": 9021659,
+          "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/jgarcia99",
+          "html_url": "https://github.com/jgarcia99",
+          "followers_url": "https://api.github.com/users/jgarcia99/followers",
+          "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+          "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+          "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+          "repos_url": "https://api.github.com/users/jgarcia99/repos",
+          "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 1,
+        "created_at": "2015-02-14T09:55:29Z",
+        "updated_at": "2015-02-14T10:22:43Z",
+        "closed_at": null,
+        "body": "\r\n* **[Responsive Vertical Timeline](/Assignments/06--Now-With-More-Responsive/README.md)**\r\n* **[Surf & Paddle RWD](/Assignments/08--Surf-and-Paddle-RWD/README.md)**\r\n* **[String Calculator](/Assignments/12--Coding-Dojo-Style/README.md#string-calculator-kata)**\r\n* **[Check Writing](/Assignments/12--Coding-Dojo-Style/README.md#check-writing-kata-lite)**\r\n* **[API Gymnastics](/Assignments/13--Lists%2BDicts/README.md#api-gymnastics)**\r\n* **[A Nice Game of Chess](/Assignments/16--Nice-Game-of-Chess/README.md)**\r\n* **[Github Revolution](/Assignments/20--Github-Revolution/README.md)**\r\n\r\n## Requirements\r\n\r\n* _WIP Issue:_ `24 -- Helluva Ride`\r\n  * checklist of assignments and checkpoints\r\n  * link to each PR you merge\r\n* _WIP Branch:_\r\n  * work in: `TIY-Assignments:feature/24--helluva-ride`\r\n  * deploy into: `TIY-Assignments:gh-pages`\r\n* _WIP Files:_\r\n  * `timeline/index.html`\r\n  * `surf+paddle/index.html`\r\n  * `katas/`\r\n    * `string-calculator.js`\r\n    * `check-writing.js`\r\n    * `roman-numerals.js`\r\n    * `euler-1.js` -- formerly `3s+5s.js`\r\n    * `euler-2.js` -- even Fibonacci\r\n    * `euler-4.js` -- largest palindrome\r\n    * `euler-5.js` -- smallest multiple\r\n  * `apis/gymnastics.js`\r\n  * `chessboard/`\r\n    * `index.html`\r\n    * `css/main.css`\r\n    * `js/main.js`\r\n  * `github/`\r\n    * `index.html`\r\n    * `css/main.css`\r\n    * `js/main.js`"
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/comments/74369716",
+        "html_url": "https://github.com/TheIronYard--Orlando/FEE--2015--SPRING/issues/302#issuecomment-74369716",
+        "issue_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/302",
+        "id": 74369716,
+        "user": {
+          "login": "jgarcia99",
+          "id": 9021659,
+          "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/jgarcia99",
+          "html_url": "https://github.com/jgarcia99",
+          "followers_url": "https://api.github.com/users/jgarcia99/followers",
+          "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+          "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+          "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+          "repos_url": "https://api.github.com/users/jgarcia99/repos",
+          "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "created_at": "2015-02-14T10:22:43Z",
+        "updated_at": "2015-02-14T10:22:43Z",
+        "body": "https://github.com/jgarcia99/TIY-Assignments/pull/29"
+      }
+    },
+    "public": true,
+    "created_at": "2015-02-14T10:22:43Z",
+    "org": {
+      "id": 8798300,
+      "login": "TheIronYard--Orlando",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/TheIronYard--Orlando",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8798300?"
+    }
+  },
+  {
+    "id": "2581705935",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 27828455,
+      "name": "jgarcia99/TIY-Assignments",
+      "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments"
+    },
+    "payload": {
+      "action": "opened",
+      "number": 29,
+      "pull_request": {
+        "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/29",
+        "id": 29318672,
+        "html_url": "https://github.com/jgarcia99/TIY-Assignments/pull/29",
+        "diff_url": "https://github.com/jgarcia99/TIY-Assignments/pull/29.diff",
+        "patch_url": "https://github.com/jgarcia99/TIY-Assignments/pull/29.patch",
+        "issue_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/29",
+        "number": 29,
+        "state": "open",
+        "locked": false,
+        "title": "The MECCA OF TIY",
+        "user": {
+          "login": "jgarcia99",
+          "id": 9021659,
+          "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/jgarcia99",
+          "html_url": "https://github.com/jgarcia99",
+          "followers_url": "https://api.github.com/users/jgarcia99/followers",
+          "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+          "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+          "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+          "repos_url": "https://api.github.com/users/jgarcia99/repos",
+          "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "body": "https://github.com/TheIronYard--Orlando/FEE--2015--SPRING/issues/302",
+        "created_at": "2015-02-14T10:22:25Z",
+        "updated_at": "2015-02-14T10:22:25Z",
+        "closed_at": null,
+        "merged_at": null,
+        "merge_commit_sha": null,
+        "assignee": null,
+        "milestone": null,
+        "commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/29/commits",
+        "review_comments_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/29/comments",
+        "review_comment_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/comments/{number}",
+        "comments_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/29/comments",
+        "statuses_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/statuses/5a0ad5e1020dca719319deb490207723d7f1208e",
+        "head": {
+          "label": "jgarcia99:feature/24--helluva-ride",
+          "ref": "feature/24--helluva-ride",
+          "sha": "5a0ad5e1020dca719319deb490207723d7f1208e",
+          "user": {
+            "login": "jgarcia99",
+            "id": 9021659,
+            "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jgarcia99",
+            "html_url": "https://github.com/jgarcia99",
+            "followers_url": "https://api.github.com/users/jgarcia99/followers",
+            "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+            "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+            "repos_url": "https://api.github.com/users/jgarcia99/repos",
+            "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 27828455,
+            "name": "TIY-Assignments",
+            "full_name": "jgarcia99/TIY-Assignments",
+            "owner": {
+              "login": "jgarcia99",
+              "id": 9021659,
+              "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/jgarcia99",
+              "html_url": "https://github.com/jgarcia99",
+              "followers_url": "https://api.github.com/users/jgarcia99/followers",
+              "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+              "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+              "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+              "repos_url": "https://api.github.com/users/jgarcia99/repos",
+              "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/jgarcia99/TIY-Assignments",
+            "description": "",
+            "fork": false,
+            "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments",
+            "forks_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/forks",
+            "keys_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/teams",
+            "hooks_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/hooks",
+            "issue_events_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/events",
+            "assignees_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/tags",
+            "blobs_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/languages",
+            "stargazers_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/stargazers",
+            "contributors_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/contributors",
+            "subscribers_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/subscribers",
+            "subscription_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/subscription",
+            "commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/merges",
+            "archive_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/downloads",
+            "issues_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/labels{/name}",
+            "releases_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/releases{/id}",
+            "created_at": "2014-12-10T16:26:07Z",
+            "updated_at": "2015-02-14T09:53:27Z",
+            "pushed_at": "2015-02-14T10:20:40Z",
+            "git_url": "git://github.com/jgarcia99/TIY-Assignments.git",
+            "ssh_url": "git@github.com:jgarcia99/TIY-Assignments.git",
+            "clone_url": "https://github.com/jgarcia99/TIY-Assignments.git",
+            "svn_url": "https://github.com/jgarcia99/TIY-Assignments",
+            "homepage": null,
+            "size": 16398,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "CSS",
+            "has_issues": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": true,
+            "forks_count": 1,
+            "mirror_url": null,
+            "open_issues_count": 2,
+            "forks": 1,
+            "open_issues": 2,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "base": {
+          "label": "jgarcia99:master",
+          "ref": "master",
+          "sha": "27bcfd877f10897ac97d6f5da6cc040e1662dd43",
+          "user": {
+            "login": "jgarcia99",
+            "id": 9021659,
+            "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jgarcia99",
+            "html_url": "https://github.com/jgarcia99",
+            "followers_url": "https://api.github.com/users/jgarcia99/followers",
+            "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+            "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+            "repos_url": "https://api.github.com/users/jgarcia99/repos",
+            "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 27828455,
+            "name": "TIY-Assignments",
+            "full_name": "jgarcia99/TIY-Assignments",
+            "owner": {
+              "login": "jgarcia99",
+              "id": 9021659,
+              "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/jgarcia99",
+              "html_url": "https://github.com/jgarcia99",
+              "followers_url": "https://api.github.com/users/jgarcia99/followers",
+              "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+              "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+              "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+              "repos_url": "https://api.github.com/users/jgarcia99/repos",
+              "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/jgarcia99/TIY-Assignments",
+            "description": "",
+            "fork": false,
+            "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments",
+            "forks_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/forks",
+            "keys_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/teams",
+            "hooks_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/hooks",
+            "issue_events_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/events",
+            "assignees_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/tags",
+            "blobs_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/languages",
+            "stargazers_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/stargazers",
+            "contributors_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/contributors",
+            "subscribers_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/subscribers",
+            "subscription_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/subscription",
+            "commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/merges",
+            "archive_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/downloads",
+            "issues_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/labels{/name}",
+            "releases_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/releases{/id}",
+            "created_at": "2014-12-10T16:26:07Z",
+            "updated_at": "2015-02-14T09:53:27Z",
+            "pushed_at": "2015-02-14T10:20:40Z",
+            "git_url": "git://github.com/jgarcia99/TIY-Assignments.git",
+            "ssh_url": "git@github.com:jgarcia99/TIY-Assignments.git",
+            "clone_url": "https://github.com/jgarcia99/TIY-Assignments.git",
+            "svn_url": "https://github.com/jgarcia99/TIY-Assignments",
+            "homepage": null,
+            "size": 16398,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "CSS",
+            "has_issues": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": true,
+            "forks_count": 1,
+            "mirror_url": null,
+            "open_issues_count": 2,
+            "forks": 1,
+            "open_issues": 2,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/29"
+          },
+          "html": {
+            "href": "https://github.com/jgarcia99/TIY-Assignments/pull/29"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/29"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/29/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/29/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/comments/{number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/29/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/statuses/5a0ad5e1020dca719319deb490207723d7f1208e"
+          }
+        },
+        "merged": false,
+        "mergeable": null,
+        "mergeable_state": "unknown",
+        "merged_by": null,
+        "comments": 0,
+        "review_comments": 0,
+        "commits": 1,
+        "additions": 12653,
+        "deletions": 0,
+        "changed_files": 1030
+      }
+    },
+    "public": true,
+    "created_at": "2015-02-14T10:22:25Z"
+  },
+  {
+    "id": "2581705217",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 27828455,
+      "name": "jgarcia99/TIY-Assignments",
+      "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments"
+    },
+    "payload": {
+      "ref": "feature/24--helluva-ride",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": "",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-02-14T10:20:40Z"
+  },
+  {
+    "id": "2581692898",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 25180640,
+      "name": "TheIronYard--Orlando/FEE--2015--SPRING",
+      "url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/302",
+        "labels_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/302/labels{/name}",
+        "comments_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/302/comments",
+        "events_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/302/events",
+        "html_url": "https://github.com/TheIronYard--Orlando/FEE--2015--SPRING/issues/302",
+        "id": 57688281,
+        "number": 302,
+        "title": "24 -- Helluva Ride -- Josuel Garcia",
+        "user": {
+          "login": "jgarcia99",
+          "id": 9021659,
+          "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/jgarcia99",
+          "html_url": "https://github.com/jgarcia99",
+          "followers_url": "https://api.github.com/users/jgarcia99/followers",
+          "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+          "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+          "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+          "repos_url": "https://api.github.com/users/jgarcia99/repos",
+          "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2015-02-14T09:55:29Z",
+        "updated_at": "2015-02-14T09:55:29Z",
+        "closed_at": null,
+        "body": "\r\n* **[Responsive Vertical Timeline](/Assignments/06--Now-With-More-Responsive/README.md)**\r\n* **[Surf & Paddle RWD](/Assignments/08--Surf-and-Paddle-RWD/README.md)**\r\n* **[String Calculator](/Assignments/12--Coding-Dojo-Style/README.md#string-calculator-kata)**\r\n* **[Check Writing](/Assignments/12--Coding-Dojo-Style/README.md#check-writing-kata-lite)**\r\n* **[API Gymnastics](/Assignments/13--Lists%2BDicts/README.md#api-gymnastics)**\r\n* **[A Nice Game of Chess](/Assignments/16--Nice-Game-of-Chess/README.md)**\r\n* **[Github Revolution](/Assignments/20--Github-Revolution/README.md)**\r\n\r\n## Requirements\r\n\r\n* _WIP Issue:_ `24 -- Helluva Ride`\r\n  * checklist of assignments and checkpoints\r\n  * link to each PR you merge\r\n* _WIP Branch:_\r\n  * work in: `TIY-Assignments:feature/24--helluva-ride`\r\n  * deploy into: `TIY-Assignments:gh-pages`\r\n* _WIP Files:_\r\n  * `timeline/index.html`\r\n  * `surf+paddle/index.html`\r\n  * `katas/`\r\n    * `string-calculator.js`\r\n    * `check-writing.js`\r\n    * `roman-numerals.js`\r\n    * `euler-1.js` -- formerly `3s+5s.js`\r\n    * `euler-2.js` -- even Fibonacci\r\n    * `euler-4.js` -- largest palindrome\r\n    * `euler-5.js` -- smallest multiple\r\n  * `apis/gymnastics.js`\r\n  * `chessboard/`\r\n    * `index.html`\r\n    * `css/main.css`\r\n    * `js/main.js`\r\n  * `github/`\r\n    * `index.html`\r\n    * `css/main.css`\r\n    * `js/main.js`"
+      }
+    },
+    "public": true,
+    "created_at": "2015-02-14T09:55:29Z",
+    "org": {
+      "id": 8798300,
+      "login": "TheIronYard--Orlando",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/TheIronYard--Orlando",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8798300?"
+    }
+  },
+  {
+    "id": "2581691889",
+    "type": "DeleteEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 27828455,
+      "name": "jgarcia99/TIY-Assignments",
+      "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments"
+    },
+    "payload": {
+      "ref": "feature/22--vue-from-the-top",
+      "ref_type": "branch",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-02-14T09:53:28Z"
+  },
+  {
+    "id": "2581691877",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 27828455,
+      "name": "jgarcia99/TIY-Assignments",
+      "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments"
+    },
+    "payload": {
+      "action": "closed",
+      "number": 28,
+      "pull_request": {
+        "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/28",
+        "id": 29318454,
+        "html_url": "https://github.com/jgarcia99/TIY-Assignments/pull/28",
+        "diff_url": "https://github.com/jgarcia99/TIY-Assignments/pull/28.diff",
+        "patch_url": "https://github.com/jgarcia99/TIY-Assignments/pull/28.patch",
+        "issue_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/28",
+        "number": 28,
+        "state": "closed",
+        "locked": false,
+        "title": "Merge pull request #27 from jgarcia99/master",
+        "user": {
+          "login": "jgarcia99",
+          "id": 9021659,
+          "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/jgarcia99",
+          "html_url": "https://github.com/jgarcia99",
+          "followers_url": "https://api.github.com/users/jgarcia99/followers",
+          "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+          "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+          "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+          "repos_url": "https://api.github.com/users/jgarcia99/repos",
+          "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "body": "i want to delete this",
+        "created_at": "2015-02-14T09:53:22Z",
+        "updated_at": "2015-02-14T09:53:27Z",
+        "closed_at": "2015-02-14T09:53:27Z",
+        "merged_at": "2015-02-14T09:53:27Z",
+        "merge_commit_sha": "b38edcfa101c07bc5af079c3bd9491c38e98023b",
+        "assignee": null,
+        "milestone": null,
+        "commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/28/commits",
+        "review_comments_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/28/comments",
+        "review_comment_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/comments/{number}",
+        "comments_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/28/comments",
+        "statuses_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/statuses/f29626ca95f8cf3e387bd625c00c9920bb9069f7",
+        "head": {
+          "label": "jgarcia99:feature/22--vue-from-the-top",
+          "ref": "feature/22--vue-from-the-top",
+          "sha": "f29626ca95f8cf3e387bd625c00c9920bb9069f7",
+          "user": {
+            "login": "jgarcia99",
+            "id": 9021659,
+            "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jgarcia99",
+            "html_url": "https://github.com/jgarcia99",
+            "followers_url": "https://api.github.com/users/jgarcia99/followers",
+            "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+            "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+            "repos_url": "https://api.github.com/users/jgarcia99/repos",
+            "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 27828455,
+            "name": "TIY-Assignments",
+            "full_name": "jgarcia99/TIY-Assignments",
+            "owner": {
+              "login": "jgarcia99",
+              "id": 9021659,
+              "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/jgarcia99",
+              "html_url": "https://github.com/jgarcia99",
+              "followers_url": "https://api.github.com/users/jgarcia99/followers",
+              "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+              "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+              "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+              "repos_url": "https://api.github.com/users/jgarcia99/repos",
+              "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/jgarcia99/TIY-Assignments",
+            "description": "",
+            "fork": false,
+            "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments",
+            "forks_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/forks",
+            "keys_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/teams",
+            "hooks_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/hooks",
+            "issue_events_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/events",
+            "assignees_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/tags",
+            "blobs_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/languages",
+            "stargazers_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/stargazers",
+            "contributors_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/contributors",
+            "subscribers_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/subscribers",
+            "subscription_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/subscription",
+            "commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/merges",
+            "archive_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/downloads",
+            "issues_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/labels{/name}",
+            "releases_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/releases{/id}",
+            "created_at": "2014-12-10T16:26:07Z",
+            "updated_at": "2015-02-14T09:53:27Z",
+            "pushed_at": "2015-02-14T09:53:27Z",
+            "git_url": "git://github.com/jgarcia99/TIY-Assignments.git",
+            "ssh_url": "git@github.com:jgarcia99/TIY-Assignments.git",
+            "clone_url": "https://github.com/jgarcia99/TIY-Assignments.git",
+            "svn_url": "https://github.com/jgarcia99/TIY-Assignments",
+            "homepage": null,
+            "size": 16398,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "CSS",
+            "has_issues": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": true,
+            "forks_count": 1,
+            "mirror_url": null,
+            "open_issues_count": 1,
+            "forks": 1,
+            "open_issues": 1,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "base": {
+          "label": "jgarcia99:master",
+          "ref": "master",
+          "sha": "a19200ca512aa19dfa604570148a303292075642",
+          "user": {
+            "login": "jgarcia99",
+            "id": 9021659,
+            "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jgarcia99",
+            "html_url": "https://github.com/jgarcia99",
+            "followers_url": "https://api.github.com/users/jgarcia99/followers",
+            "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+            "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+            "repos_url": "https://api.github.com/users/jgarcia99/repos",
+            "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 27828455,
+            "name": "TIY-Assignments",
+            "full_name": "jgarcia99/TIY-Assignments",
+            "owner": {
+              "login": "jgarcia99",
+              "id": 9021659,
+              "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/jgarcia99",
+              "html_url": "https://github.com/jgarcia99",
+              "followers_url": "https://api.github.com/users/jgarcia99/followers",
+              "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+              "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+              "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+              "repos_url": "https://api.github.com/users/jgarcia99/repos",
+              "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/jgarcia99/TIY-Assignments",
+            "description": "",
+            "fork": false,
+            "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments",
+            "forks_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/forks",
+            "keys_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/teams",
+            "hooks_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/hooks",
+            "issue_events_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/events",
+            "assignees_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/tags",
+            "blobs_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/languages",
+            "stargazers_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/stargazers",
+            "contributors_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/contributors",
+            "subscribers_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/subscribers",
+            "subscription_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/subscription",
+            "commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/merges",
+            "archive_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/downloads",
+            "issues_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/labels{/name}",
+            "releases_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/releases{/id}",
+            "created_at": "2014-12-10T16:26:07Z",
+            "updated_at": "2015-02-14T09:53:27Z",
+            "pushed_at": "2015-02-14T09:53:27Z",
+            "git_url": "git://github.com/jgarcia99/TIY-Assignments.git",
+            "ssh_url": "git@github.com:jgarcia99/TIY-Assignments.git",
+            "clone_url": "https://github.com/jgarcia99/TIY-Assignments.git",
+            "svn_url": "https://github.com/jgarcia99/TIY-Assignments",
+            "homepage": null,
+            "size": 16398,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "CSS",
+            "has_issues": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": true,
+            "forks_count": 1,
+            "mirror_url": null,
+            "open_issues_count": 1,
+            "forks": 1,
+            "open_issues": 1,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/28"
+          },
+          "html": {
+            "href": "https://github.com/jgarcia99/TIY-Assignments/pull/28"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/28"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/28/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/28/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/comments/{number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/28/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/statuses/f29626ca95f8cf3e387bd625c00c9920bb9069f7"
+          }
+        },
+        "merged": true,
+        "mergeable": null,
+        "mergeable_state": "unknown",
+        "merged_by": {
+          "login": "jgarcia99",
+          "id": 9021659,
+          "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/jgarcia99",
+          "html_url": "https://github.com/jgarcia99",
+          "followers_url": "https://api.github.com/users/jgarcia99/followers",
+          "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+          "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+          "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+          "repos_url": "https://api.github.com/users/jgarcia99/repos",
+          "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "comments": 0,
+        "review_comments": 0,
+        "commits": 1,
+        "additions": 0,
+        "deletions": 0,
+        "changed_files": 0
+      }
+    },
+    "public": true,
+    "created_at": "2015-02-14T09:53:27Z"
+  },
+  {
+    "id": "2581691876",
+    "type": "PushEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 27828455,
+      "name": "jgarcia99/TIY-Assignments",
+      "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments"
+    },
+    "payload": {
+      "push_id": 574684130,
+      "size": 2,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "27bcfd877f10897ac97d6f5da6cc040e1662dd43",
+      "before": "a19200ca512aa19dfa604570148a303292075642",
+      "commits": [
+        {
+          "sha": "f29626ca95f8cf3e387bd625c00c9920bb9069f7",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "Merge pull request #27 from jgarcia99/master\n\ni want to delete this",
+          "distinct": false,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/f29626ca95f8cf3e387bd625c00c9920bb9069f7"
+        },
+        {
+          "sha": "27bcfd877f10897ac97d6f5da6cc040e1662dd43",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "Merge pull request #28 from jgarcia99/feature/22--vue-from-the-top\n\nMerge pull request #27 from jgarcia99/master",
+          "distinct": true,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/27bcfd877f10897ac97d6f5da6cc040e1662dd43"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-02-14T09:53:27Z"
+  },
+  {
+    "id": "2581691821",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 27828455,
+      "name": "jgarcia99/TIY-Assignments",
+      "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments"
+    },
+    "payload": {
+      "action": "opened",
+      "number": 28,
+      "pull_request": {
+        "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/28",
+        "id": 29318454,
+        "html_url": "https://github.com/jgarcia99/TIY-Assignments/pull/28",
+        "diff_url": "https://github.com/jgarcia99/TIY-Assignments/pull/28.diff",
+        "patch_url": "https://github.com/jgarcia99/TIY-Assignments/pull/28.patch",
+        "issue_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/28",
+        "number": 28,
+        "state": "open",
+        "locked": false,
+        "title": "Merge pull request #27 from jgarcia99/master",
+        "user": {
+          "login": "jgarcia99",
+          "id": 9021659,
+          "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/jgarcia99",
+          "html_url": "https://github.com/jgarcia99",
+          "followers_url": "https://api.github.com/users/jgarcia99/followers",
+          "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+          "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+          "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+          "repos_url": "https://api.github.com/users/jgarcia99/repos",
+          "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "body": "i want to delete this",
+        "created_at": "2015-02-14T09:53:22Z",
+        "updated_at": "2015-02-14T09:53:22Z",
+        "closed_at": null,
+        "merged_at": null,
+        "merge_commit_sha": null,
+        "assignee": null,
+        "milestone": null,
+        "commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/28/commits",
+        "review_comments_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/28/comments",
+        "review_comment_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/comments/{number}",
+        "comments_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/28/comments",
+        "statuses_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/statuses/f29626ca95f8cf3e387bd625c00c9920bb9069f7",
+        "head": {
+          "label": "jgarcia99:feature/22--vue-from-the-top",
+          "ref": "feature/22--vue-from-the-top",
+          "sha": "f29626ca95f8cf3e387bd625c00c9920bb9069f7",
+          "user": {
+            "login": "jgarcia99",
+            "id": 9021659,
+            "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jgarcia99",
+            "html_url": "https://github.com/jgarcia99",
+            "followers_url": "https://api.github.com/users/jgarcia99/followers",
+            "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+            "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+            "repos_url": "https://api.github.com/users/jgarcia99/repos",
+            "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 27828455,
+            "name": "TIY-Assignments",
+            "full_name": "jgarcia99/TIY-Assignments",
+            "owner": {
+              "login": "jgarcia99",
+              "id": 9021659,
+              "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/jgarcia99",
+              "html_url": "https://github.com/jgarcia99",
+              "followers_url": "https://api.github.com/users/jgarcia99/followers",
+              "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+              "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+              "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+              "repos_url": "https://api.github.com/users/jgarcia99/repos",
+              "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/jgarcia99/TIY-Assignments",
+            "description": "",
+            "fork": false,
+            "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments",
+            "forks_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/forks",
+            "keys_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/teams",
+            "hooks_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/hooks",
+            "issue_events_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/events",
+            "assignees_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/tags",
+            "blobs_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/languages",
+            "stargazers_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/stargazers",
+            "contributors_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/contributors",
+            "subscribers_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/subscribers",
+            "subscription_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/subscription",
+            "commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/merges",
+            "archive_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/downloads",
+            "issues_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/labels{/name}",
+            "releases_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/releases{/id}",
+            "created_at": "2014-12-10T16:26:07Z",
+            "updated_at": "2015-02-14T09:49:16Z",
+            "pushed_at": "2015-02-14T09:52:54Z",
+            "git_url": "git://github.com/jgarcia99/TIY-Assignments.git",
+            "ssh_url": "git@github.com:jgarcia99/TIY-Assignments.git",
+            "clone_url": "https://github.com/jgarcia99/TIY-Assignments.git",
+            "svn_url": "https://github.com/jgarcia99/TIY-Assignments",
+            "homepage": null,
+            "size": 16398,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "CSS",
+            "has_issues": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": true,
+            "forks_count": 1,
+            "mirror_url": null,
+            "open_issues_count": 2,
+            "forks": 1,
+            "open_issues": 2,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "base": {
+          "label": "jgarcia99:master",
+          "ref": "master",
+          "sha": "a19200ca512aa19dfa604570148a303292075642",
+          "user": {
+            "login": "jgarcia99",
+            "id": 9021659,
+            "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jgarcia99",
+            "html_url": "https://github.com/jgarcia99",
+            "followers_url": "https://api.github.com/users/jgarcia99/followers",
+            "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+            "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+            "repos_url": "https://api.github.com/users/jgarcia99/repos",
+            "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 27828455,
+            "name": "TIY-Assignments",
+            "full_name": "jgarcia99/TIY-Assignments",
+            "owner": {
+              "login": "jgarcia99",
+              "id": 9021659,
+              "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/jgarcia99",
+              "html_url": "https://github.com/jgarcia99",
+              "followers_url": "https://api.github.com/users/jgarcia99/followers",
+              "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+              "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+              "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+              "repos_url": "https://api.github.com/users/jgarcia99/repos",
+              "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/jgarcia99/TIY-Assignments",
+            "description": "",
+            "fork": false,
+            "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments",
+            "forks_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/forks",
+            "keys_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/teams",
+            "hooks_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/hooks",
+            "issue_events_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/events",
+            "assignees_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/tags",
+            "blobs_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/languages",
+            "stargazers_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/stargazers",
+            "contributors_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/contributors",
+            "subscribers_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/subscribers",
+            "subscription_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/subscription",
+            "commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/merges",
+            "archive_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/downloads",
+            "issues_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/labels{/name}",
+            "releases_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/releases{/id}",
+            "created_at": "2014-12-10T16:26:07Z",
+            "updated_at": "2015-02-14T09:49:16Z",
+            "pushed_at": "2015-02-14T09:52:54Z",
+            "git_url": "git://github.com/jgarcia99/TIY-Assignments.git",
+            "ssh_url": "git@github.com:jgarcia99/TIY-Assignments.git",
+            "clone_url": "https://github.com/jgarcia99/TIY-Assignments.git",
+            "svn_url": "https://github.com/jgarcia99/TIY-Assignments",
+            "homepage": null,
+            "size": 16398,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "CSS",
+            "has_issues": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": true,
+            "forks_count": 1,
+            "mirror_url": null,
+            "open_issues_count": 2,
+            "forks": 1,
+            "open_issues": 2,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/28"
+          },
+          "html": {
+            "href": "https://github.com/jgarcia99/TIY-Assignments/pull/28"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/28"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/28/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/28/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/comments/{number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/28/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/statuses/f29626ca95f8cf3e387bd625c00c9920bb9069f7"
+          }
+        },
+        "merged": false,
+        "mergeable": null,
+        "mergeable_state": "unknown",
+        "merged_by": null,
+        "comments": 0,
+        "review_comments": 0,
+        "commits": 1,
+        "additions": 0,
+        "deletions": 0,
+        "changed_files": 0
+      }
+    },
+    "public": true,
+    "created_at": "2015-02-14T09:53:22Z"
+  },
+  {
+    "id": "2581691580",
+    "type": "PushEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 27828455,
+      "name": "jgarcia99/TIY-Assignments",
+      "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments"
+    },
+    "payload": {
+      "push_id": 574684016,
+      "size": 6,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/22--vue-from-the-top",
+      "head": "f29626ca95f8cf3e387bd625c00c9920bb9069f7",
+      "before": "10d29ba44ab1b3417f46798b7296f12fc6d05883",
+      "commits": [
+        {
+          "sha": "0eb0a47a4b1846706c6c7f55d6833f1a90064dba",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "pair programming @jaredstevick @taylorfoster90",
+          "distinct": false,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/0eb0a47a4b1846706c6c7f55d6833f1a90064dba"
+        },
+        {
+          "sha": "fc21914ac1ea4a69960dc585d2d300a866a566a6",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "lil more style",
+          "distinct": false,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/fc21914ac1ea4a69960dc585d2d300a866a566a6"
+        },
+        {
+          "sha": "656f7ca6ceec2525e550787a40bfe196aaba1ef8",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "quick change",
+          "distinct": false,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/656f7ca6ceec2525e550787a40bfe196aaba1ef8"
+        },
+        {
+          "sha": "f81fce5e410ca2ebd3cacb870259c70cce8fbedf",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "Merge pull request #26 from jgarcia99/feature/21--living-chessboard\n\npair programming @jaredstevick @taylorfoster90",
+          "distinct": false,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/f81fce5e410ca2ebd3cacb870259c70cce8fbedf"
+        },
+        {
+          "sha": "a19200ca512aa19dfa604570148a303292075642",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "Merge branch 'master' of https://github.com/jgarcia99/TIY-Assignments",
+          "distinct": false,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/a19200ca512aa19dfa604570148a303292075642"
+        },
+        {
+          "sha": "f29626ca95f8cf3e387bd625c00c9920bb9069f7",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "Merge pull request #27 from jgarcia99/master\n\ni want to delete this",
+          "distinct": true,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/f29626ca95f8cf3e387bd625c00c9920bb9069f7"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-02-14T09:52:54Z"
+  },
+  {
+    "id": "2581691573",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 27828455,
+      "name": "jgarcia99/TIY-Assignments",
+      "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments"
+    },
+    "payload": {
+      "action": "closed",
+      "number": 27,
+      "pull_request": {
+        "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/27",
+        "id": 29318448,
+        "html_url": "https://github.com/jgarcia99/TIY-Assignments/pull/27",
+        "diff_url": "https://github.com/jgarcia99/TIY-Assignments/pull/27.diff",
+        "patch_url": "https://github.com/jgarcia99/TIY-Assignments/pull/27.patch",
+        "issue_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/27",
+        "number": 27,
+        "state": "closed",
+        "locked": false,
+        "title": "i want to delete this",
+        "user": {
+          "login": "jgarcia99",
+          "id": 9021659,
+          "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/jgarcia99",
+          "html_url": "https://github.com/jgarcia99",
+          "followers_url": "https://api.github.com/users/jgarcia99/followers",
+          "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+          "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+          "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+          "repos_url": "https://api.github.com/users/jgarcia99/repos",
+          "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "body": "",
+        "created_at": "2015-02-14T09:52:41Z",
+        "updated_at": "2015-02-14T09:52:53Z",
+        "closed_at": "2015-02-14T09:52:53Z",
+        "merged_at": "2015-02-14T09:52:53Z",
+        "merge_commit_sha": "bb68afe5597ff6625f3fcbf270dcd5ea9a82a10d",
+        "assignee": null,
+        "milestone": null,
+        "commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/27/commits",
+        "review_comments_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/27/comments",
+        "review_comment_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/comments/{number}",
+        "comments_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/27/comments",
+        "statuses_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/statuses/a19200ca512aa19dfa604570148a303292075642",
+        "head": {
+          "label": "jgarcia99:master",
+          "ref": "master",
+          "sha": "a19200ca512aa19dfa604570148a303292075642",
+          "user": {
+            "login": "jgarcia99",
+            "id": 9021659,
+            "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jgarcia99",
+            "html_url": "https://github.com/jgarcia99",
+            "followers_url": "https://api.github.com/users/jgarcia99/followers",
+            "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+            "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+            "repos_url": "https://api.github.com/users/jgarcia99/repos",
+            "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 27828455,
+            "name": "TIY-Assignments",
+            "full_name": "jgarcia99/TIY-Assignments",
+            "owner": {
+              "login": "jgarcia99",
+              "id": 9021659,
+              "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/jgarcia99",
+              "html_url": "https://github.com/jgarcia99",
+              "followers_url": "https://api.github.com/users/jgarcia99/followers",
+              "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+              "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+              "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+              "repos_url": "https://api.github.com/users/jgarcia99/repos",
+              "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/jgarcia99/TIY-Assignments",
+            "description": "",
+            "fork": false,
+            "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments",
+            "forks_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/forks",
+            "keys_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/teams",
+            "hooks_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/hooks",
+            "issue_events_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/events",
+            "assignees_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/tags",
+            "blobs_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/languages",
+            "stargazers_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/stargazers",
+            "contributors_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/contributors",
+            "subscribers_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/subscribers",
+            "subscription_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/subscription",
+            "commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/merges",
+            "archive_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/downloads",
+            "issues_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/labels{/name}",
+            "releases_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/releases{/id}",
+            "created_at": "2014-12-10T16:26:07Z",
+            "updated_at": "2015-02-14T09:49:16Z",
+            "pushed_at": "2015-02-14T09:52:53Z",
+            "git_url": "git://github.com/jgarcia99/TIY-Assignments.git",
+            "ssh_url": "git@github.com:jgarcia99/TIY-Assignments.git",
+            "clone_url": "https://github.com/jgarcia99/TIY-Assignments.git",
+            "svn_url": "https://github.com/jgarcia99/TIY-Assignments",
+            "homepage": null,
+            "size": 16398,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "CSS",
+            "has_issues": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": true,
+            "forks_count": 1,
+            "mirror_url": null,
+            "open_issues_count": 1,
+            "forks": 1,
+            "open_issues": 1,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "base": {
+          "label": "jgarcia99:feature/22--vue-from-the-top",
+          "ref": "feature/22--vue-from-the-top",
+          "sha": "10d29ba44ab1b3417f46798b7296f12fc6d05883",
+          "user": {
+            "login": "jgarcia99",
+            "id": 9021659,
+            "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jgarcia99",
+            "html_url": "https://github.com/jgarcia99",
+            "followers_url": "https://api.github.com/users/jgarcia99/followers",
+            "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+            "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+            "repos_url": "https://api.github.com/users/jgarcia99/repos",
+            "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 27828455,
+            "name": "TIY-Assignments",
+            "full_name": "jgarcia99/TIY-Assignments",
+            "owner": {
+              "login": "jgarcia99",
+              "id": 9021659,
+              "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/jgarcia99",
+              "html_url": "https://github.com/jgarcia99",
+              "followers_url": "https://api.github.com/users/jgarcia99/followers",
+              "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+              "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+              "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+              "repos_url": "https://api.github.com/users/jgarcia99/repos",
+              "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/jgarcia99/TIY-Assignments",
+            "description": "",
+            "fork": false,
+            "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments",
+            "forks_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/forks",
+            "keys_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/teams",
+            "hooks_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/hooks",
+            "issue_events_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/events",
+            "assignees_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/tags",
+            "blobs_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/languages",
+            "stargazers_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/stargazers",
+            "contributors_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/contributors",
+            "subscribers_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/subscribers",
+            "subscription_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/subscription",
+            "commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/merges",
+            "archive_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/downloads",
+            "issues_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/labels{/name}",
+            "releases_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/releases{/id}",
+            "created_at": "2014-12-10T16:26:07Z",
+            "updated_at": "2015-02-14T09:49:16Z",
+            "pushed_at": "2015-02-14T09:52:53Z",
+            "git_url": "git://github.com/jgarcia99/TIY-Assignments.git",
+            "ssh_url": "git@github.com:jgarcia99/TIY-Assignments.git",
+            "clone_url": "https://github.com/jgarcia99/TIY-Assignments.git",
+            "svn_url": "https://github.com/jgarcia99/TIY-Assignments",
+            "homepage": null,
+            "size": 16398,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "CSS",
+            "has_issues": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": true,
+            "forks_count": 1,
+            "mirror_url": null,
+            "open_issues_count": 1,
+            "forks": 1,
+            "open_issues": 1,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/27"
+          },
+          "html": {
+            "href": "https://github.com/jgarcia99/TIY-Assignments/pull/27"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/27"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/27/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/27/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/comments/{number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/27/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/statuses/a19200ca512aa19dfa604570148a303292075642"
+          }
+        },
+        "merged": true,
+        "mergeable": null,
+        "mergeable_state": "unknown",
+        "merged_by": {
+          "login": "jgarcia99",
+          "id": 9021659,
+          "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/jgarcia99",
+          "html_url": "https://github.com/jgarcia99",
+          "followers_url": "https://api.github.com/users/jgarcia99/followers",
+          "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+          "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+          "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+          "repos_url": "https://api.github.com/users/jgarcia99/repos",
+          "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "comments": 0,
+        "review_comments": 0,
+        "commits": 5,
+        "additions": 2181,
+        "deletions": 0,
+        "changed_files": 18
+      }
+    },
+    "public": true,
+    "created_at": "2015-02-14T09:52:53Z"
+  },
+  {
+    "id": "2581691452",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 27828455,
+      "name": "jgarcia99/TIY-Assignments",
+      "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments"
+    },
+    "payload": {
+      "action": "opened",
+      "number": 27,
+      "pull_request": {
+        "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/27",
+        "id": 29318448,
+        "html_url": "https://github.com/jgarcia99/TIY-Assignments/pull/27",
+        "diff_url": "https://github.com/jgarcia99/TIY-Assignments/pull/27.diff",
+        "patch_url": "https://github.com/jgarcia99/TIY-Assignments/pull/27.patch",
+        "issue_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/27",
+        "number": 27,
+        "state": "open",
+        "locked": false,
+        "title": "i want to delete this",
+        "user": {
+          "login": "jgarcia99",
+          "id": 9021659,
+          "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/jgarcia99",
+          "html_url": "https://github.com/jgarcia99",
+          "followers_url": "https://api.github.com/users/jgarcia99/followers",
+          "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+          "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+          "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+          "repos_url": "https://api.github.com/users/jgarcia99/repos",
+          "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "body": "",
+        "created_at": "2015-02-14T09:52:41Z",
+        "updated_at": "2015-02-14T09:52:41Z",
+        "closed_at": null,
+        "merged_at": null,
+        "merge_commit_sha": null,
+        "assignee": null,
+        "milestone": null,
+        "commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/27/commits",
+        "review_comments_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/27/comments",
+        "review_comment_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/comments/{number}",
+        "comments_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/27/comments",
+        "statuses_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/statuses/a19200ca512aa19dfa604570148a303292075642",
+        "head": {
+          "label": "jgarcia99:master",
+          "ref": "master",
+          "sha": "a19200ca512aa19dfa604570148a303292075642",
+          "user": {
+            "login": "jgarcia99",
+            "id": 9021659,
+            "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jgarcia99",
+            "html_url": "https://github.com/jgarcia99",
+            "followers_url": "https://api.github.com/users/jgarcia99/followers",
+            "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+            "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+            "repos_url": "https://api.github.com/users/jgarcia99/repos",
+            "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 27828455,
+            "name": "TIY-Assignments",
+            "full_name": "jgarcia99/TIY-Assignments",
+            "owner": {
+              "login": "jgarcia99",
+              "id": 9021659,
+              "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/jgarcia99",
+              "html_url": "https://github.com/jgarcia99",
+              "followers_url": "https://api.github.com/users/jgarcia99/followers",
+              "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+              "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+              "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+              "repos_url": "https://api.github.com/users/jgarcia99/repos",
+              "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/jgarcia99/TIY-Assignments",
+            "description": "",
+            "fork": false,
+            "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments",
+            "forks_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/forks",
+            "keys_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/teams",
+            "hooks_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/hooks",
+            "issue_events_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/events",
+            "assignees_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/tags",
+            "blobs_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/languages",
+            "stargazers_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/stargazers",
+            "contributors_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/contributors",
+            "subscribers_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/subscribers",
+            "subscription_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/subscription",
+            "commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/merges",
+            "archive_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/downloads",
+            "issues_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/labels{/name}",
+            "releases_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/releases{/id}",
+            "created_at": "2014-12-10T16:26:07Z",
+            "updated_at": "2015-02-14T09:49:16Z",
+            "pushed_at": "2015-02-14T09:49:15Z",
+            "git_url": "git://github.com/jgarcia99/TIY-Assignments.git",
+            "ssh_url": "git@github.com:jgarcia99/TIY-Assignments.git",
+            "clone_url": "https://github.com/jgarcia99/TIY-Assignments.git",
+            "svn_url": "https://github.com/jgarcia99/TIY-Assignments",
+            "homepage": null,
+            "size": 16398,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "CSS",
+            "has_issues": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": true,
+            "forks_count": 1,
+            "mirror_url": null,
+            "open_issues_count": 2,
+            "forks": 1,
+            "open_issues": 2,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "base": {
+          "label": "jgarcia99:feature/22--vue-from-the-top",
+          "ref": "feature/22--vue-from-the-top",
+          "sha": "10d29ba44ab1b3417f46798b7296f12fc6d05883",
+          "user": {
+            "login": "jgarcia99",
+            "id": 9021659,
+            "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jgarcia99",
+            "html_url": "https://github.com/jgarcia99",
+            "followers_url": "https://api.github.com/users/jgarcia99/followers",
+            "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+            "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+            "repos_url": "https://api.github.com/users/jgarcia99/repos",
+            "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 27828455,
+            "name": "TIY-Assignments",
+            "full_name": "jgarcia99/TIY-Assignments",
+            "owner": {
+              "login": "jgarcia99",
+              "id": 9021659,
+              "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/jgarcia99",
+              "html_url": "https://github.com/jgarcia99",
+              "followers_url": "https://api.github.com/users/jgarcia99/followers",
+              "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+              "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+              "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+              "repos_url": "https://api.github.com/users/jgarcia99/repos",
+              "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/jgarcia99/TIY-Assignments",
+            "description": "",
+            "fork": false,
+            "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments",
+            "forks_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/forks",
+            "keys_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/teams",
+            "hooks_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/hooks",
+            "issue_events_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/events",
+            "assignees_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/tags",
+            "blobs_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/languages",
+            "stargazers_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/stargazers",
+            "contributors_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/contributors",
+            "subscribers_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/subscribers",
+            "subscription_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/subscription",
+            "commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/merges",
+            "archive_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/downloads",
+            "issues_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/labels{/name}",
+            "releases_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/releases{/id}",
+            "created_at": "2014-12-10T16:26:07Z",
+            "updated_at": "2015-02-14T09:49:16Z",
+            "pushed_at": "2015-02-14T09:49:15Z",
+            "git_url": "git://github.com/jgarcia99/TIY-Assignments.git",
+            "ssh_url": "git@github.com:jgarcia99/TIY-Assignments.git",
+            "clone_url": "https://github.com/jgarcia99/TIY-Assignments.git",
+            "svn_url": "https://github.com/jgarcia99/TIY-Assignments",
+            "homepage": null,
+            "size": 16398,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "CSS",
+            "has_issues": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": true,
+            "forks_count": 1,
+            "mirror_url": null,
+            "open_issues_count": 2,
+            "forks": 1,
+            "open_issues": 2,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/27"
+          },
+          "html": {
+            "href": "https://github.com/jgarcia99/TIY-Assignments/pull/27"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/27"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/27/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/27/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/comments/{number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/27/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/statuses/a19200ca512aa19dfa604570148a303292075642"
+          }
+        },
+        "merged": false,
+        "mergeable": null,
+        "mergeable_state": "unknown",
+        "merged_by": null,
+        "comments": 0,
+        "review_comments": 0,
+        "commits": 5,
+        "additions": 2181,
+        "deletions": 0,
+        "changed_files": 18
+      }
+    },
+    "public": true,
+    "created_at": "2015-02-14T09:52:41Z"
+  },
+  {
+    "id": "2581689768",
+    "type": "PushEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 27828455,
+      "name": "jgarcia99/TIY-Assignments",
+      "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments"
+    },
+    "payload": {
+      "push_id": 574683263,
+      "size": 6,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "a19200ca512aa19dfa604570148a303292075642",
+      "before": "f81fce5e410ca2ebd3cacb870259c70cce8fbedf",
+      "commits": [
+        {
+          "sha": "53b07247f5f9d1c643d2bf4d2b32b0f7fb97dffc",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": " a somewhat starting point",
+          "distinct": false,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/53b07247f5f9d1c643d2bf4d2b32b0f7fb97dffc"
+        },
+        {
+          "sha": "521bd769538a36249b956cbf500905cfa8d74d55",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "starting off some yak",
+          "distinct": false,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/521bd769538a36249b956cbf500905cfa8d74d55"
+        },
+        {
+          "sha": "7098297b269d964aaf7ed81eaefd86396490d8d5",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "practice for bower,wiredep,and api gymnastics",
+          "distinct": false,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/7098297b269d964aaf7ed81eaefd86396490d8d5"
+        },
+        {
+          "sha": "ad49b5b57133428fb54ca92b4032d9fdad6c54eb",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "pushing stuff but doesnt matter new branch 24 on the way",
+          "distinct": false,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/ad49b5b57133428fb54ca92b4032d9fdad6c54eb"
+        },
+        {
+          "sha": "10d29ba44ab1b3417f46798b7296f12fc6d05883",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": ".. ../pub jus",
+          "distinct": false,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/10d29ba44ab1b3417f46798b7296f12fc6d05883"
+        },
+        {
+          "sha": "a19200ca512aa19dfa604570148a303292075642",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "Merge branch 'master' of https://github.com/jgarcia99/TIY-Assignments",
+          "distinct": true,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/a19200ca512aa19dfa604570148a303292075642"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-02-14T09:49:16Z"
+  },
+  {
+    "id": "2581688522",
+    "type": "PushEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 27828455,
+      "name": "jgarcia99/TIY-Assignments",
+      "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments"
+    },
+    "payload": {
+      "push_id": 574682727,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/22--vue-from-the-top",
+      "head": "10d29ba44ab1b3417f46798b7296f12fc6d05883",
+      "before": "ad49b5b57133428fb54ca92b4032d9fdad6c54eb",
+      "commits": [
+        {
+          "sha": "10d29ba44ab1b3417f46798b7296f12fc6d05883",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": ".. ../pub jus",
+          "distinct": true,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/10d29ba44ab1b3417f46798b7296f12fc6d05883"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-02-14T09:46:30Z"
+  },
+  {
+    "id": "2581687858",
+    "type": "PushEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 27828455,
+      "name": "jgarcia99/TIY-Assignments",
+      "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments"
+    },
+    "payload": {
+      "push_id": 574682399,
+      "size": 2,
+      "distinct_size": 2,
+      "ref": "refs/heads/feature/22--vue-from-the-top",
+      "head": "ad49b5b57133428fb54ca92b4032d9fdad6c54eb",
+      "before": "521bd769538a36249b956cbf500905cfa8d74d55",
+      "commits": [
+        {
+          "sha": "7098297b269d964aaf7ed81eaefd86396490d8d5",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "practice for bower,wiredep,and api gymnastics",
+          "distinct": true,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/7098297b269d964aaf7ed81eaefd86396490d8d5"
+        },
+        {
+          "sha": "ad49b5b57133428fb54ca92b4032d9fdad6c54eb",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "pushing stuff but doesnt matter new branch 24 on the way",
+          "distinct": true,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/ad49b5b57133428fb54ca92b4032d9fdad6c54eb"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-02-14T09:44:58Z"
+  },
+  {
+    "id": "2575611971",
+    "type": "PushEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 27828455,
+      "name": "jgarcia99/TIY-Assignments",
+      "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments"
+    },
+    "payload": {
+      "push_id": 572210624,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/22--vue-from-the-top",
+      "head": "521bd769538a36249b956cbf500905cfa8d74d55",
+      "before": "53b07247f5f9d1c643d2bf4d2b32b0f7fb97dffc",
+      "commits": [
+        {
+          "sha": "521bd769538a36249b956cbf500905cfa8d74d55",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "starting off some yak",
+          "distinct": true,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/521bd769538a36249b956cbf500905cfa8d74d55"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-02-12T00:32:00Z"
+  },
+  {
+    "id": "2573726731",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 27828455,
+      "name": "jgarcia99/TIY-Assignments",
+      "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments"
+    },
+    "payload": {
+      "ref": "feature/22--vue-from-the-top",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": "",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-02-11T12:21:35Z"
+  },
+  {
+    "id": "2573588556",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 25180640,
+      "name": "TheIronYard--Orlando/FEE--2015--SPRING",
+      "url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/286",
+        "labels_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/286/labels{/name}",
+        "comments_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/286/comments",
+        "events_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/286/events",
+        "html_url": "https://github.com/TheIronYard--Orlando/FEE--2015--SPRING/issues/286",
+        "id": 57302411,
+        "number": 286,
+        "title": "22 -- Vue from the Top -- Josuel Garcia",
+        "user": {
+          "login": "jgarcia99",
+          "id": 9021659,
+          "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/jgarcia99",
+          "html_url": "https://github.com/jgarcia99",
+          "followers_url": "https://api.github.com/users/jgarcia99/followers",
+          "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+          "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+          "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+          "repos_url": "https://api.github.com/users/jgarcia99/repos",
+          "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2015-02-11T11:08:14Z",
+        "updated_at": "2015-02-11T11:08:14Z",
+        "closed_at": null,
+        "body": "## Requirements\r\n\r\n* _WIP Issue:_ `22 -- Vue from the Top`\r\n* _WIP Branch:_ `feature/22--vue-from-the-top`\r\n* _WIP Files:_\r\n  * **Attack of the Killer Prototypes**\r\n    * `scripts/pieces.js`\r\n  * **Night of the Living Chessboard**\r\n    * `pub/index.html`\r\n    * `pub/js/main.js`\r\n    * `pub/css/main.scss`\r\n    * `pub/css/main.css`\r\n"
+      }
+    },
+    "public": true,
+    "created_at": "2015-02-11T11:08:15Z",
+    "org": {
+      "id": 8798300,
+      "login": "TheIronYard--Orlando",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/TheIronYard--Orlando",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8798300?"
+    }
+  },
+  {
+    "id": "2571852363",
+    "type": "DeleteEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 27828455,
+      "name": "jgarcia99/TIY-Assignments",
+      "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments"
+    },
+    "payload": {
+      "ref": "feature/21--living-chessboard",
+      "ref_type": "branch",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-02-10T18:56:36Z"
+  },
+  {
+    "id": "2571852330",
+    "type": "PushEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 27828455,
+      "name": "jgarcia99/TIY-Assignments",
+      "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments"
+    },
+    "payload": {
+      "push_id": 570692669,
+      "size": 4,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "f81fce5e410ca2ebd3cacb870259c70cce8fbedf",
+      "before": "ecd2fe2fa2ba6f155fc7bf2f093049257c32cc41",
+      "commits": [
+        {
+          "sha": "0eb0a47a4b1846706c6c7f55d6833f1a90064dba",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "pair programming @jaredstevick @taylorfoster90",
+          "distinct": false,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/0eb0a47a4b1846706c6c7f55d6833f1a90064dba"
+        },
+        {
+          "sha": "fc21914ac1ea4a69960dc585d2d300a866a566a6",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "lil more style",
+          "distinct": false,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/fc21914ac1ea4a69960dc585d2d300a866a566a6"
+        },
+        {
+          "sha": "656f7ca6ceec2525e550787a40bfe196aaba1ef8",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "quick change",
+          "distinct": false,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/656f7ca6ceec2525e550787a40bfe196aaba1ef8"
+        },
+        {
+          "sha": "f81fce5e410ca2ebd3cacb870259c70cce8fbedf",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "Merge pull request #26 from jgarcia99/feature/21--living-chessboard\n\npair programming @jaredstevick @taylorfoster90",
+          "distinct": true,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/f81fce5e410ca2ebd3cacb870259c70cce8fbedf"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-02-10T18:56:36Z"
+  },
+  {
+    "id": "2571852217",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 27828455,
+      "name": "jgarcia99/TIY-Assignments",
+      "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments"
+    },
+    "payload": {
+      "action": "closed",
+      "number": 26,
+      "pull_request": {
+        "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/26",
+        "id": 28977669,
+        "html_url": "https://github.com/jgarcia99/TIY-Assignments/pull/26",
+        "diff_url": "https://github.com/jgarcia99/TIY-Assignments/pull/26.diff",
+        "patch_url": "https://github.com/jgarcia99/TIY-Assignments/pull/26.patch",
+        "issue_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/26",
+        "number": 26,
+        "state": "closed",
+        "locked": false,
+        "title": "pair programming @jaredstevick @taylorfoster90",
+        "user": {
+          "login": "jgarcia99",
+          "id": 9021659,
+          "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/jgarcia99",
+          "html_url": "https://github.com/jgarcia99",
+          "followers_url": "https://api.github.com/users/jgarcia99/followers",
+          "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+          "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+          "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+          "repos_url": "https://api.github.com/users/jgarcia99/repos",
+          "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "body": "https://github.com/TheIronYard--Orlando/FEE--2015--SPRING/issues/270",
+        "created_at": "2015-02-10T03:09:13Z",
+        "updated_at": "2015-02-10T18:56:35Z",
+        "closed_at": "2015-02-10T18:56:34Z",
+        "merged_at": "2015-02-10T18:56:34Z",
+        "merge_commit_sha": "cabe216f3d835bca80f9f15336b9a69a5ba4221e",
+        "assignee": null,
+        "milestone": null,
+        "commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/26/commits",
+        "review_comments_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/26/comments",
+        "review_comment_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/comments/{number}",
+        "comments_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/26/comments",
+        "statuses_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/statuses/656f7ca6ceec2525e550787a40bfe196aaba1ef8",
+        "head": {
+          "label": "jgarcia99:feature/21--living-chessboard",
+          "ref": "feature/21--living-chessboard",
+          "sha": "656f7ca6ceec2525e550787a40bfe196aaba1ef8",
+          "user": {
+            "login": "jgarcia99",
+            "id": 9021659,
+            "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jgarcia99",
+            "html_url": "https://github.com/jgarcia99",
+            "followers_url": "https://api.github.com/users/jgarcia99/followers",
+            "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+            "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+            "repos_url": "https://api.github.com/users/jgarcia99/repos",
+            "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 27828455,
+            "name": "TIY-Assignments",
+            "full_name": "jgarcia99/TIY-Assignments",
+            "owner": {
+              "login": "jgarcia99",
+              "id": 9021659,
+              "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/jgarcia99",
+              "html_url": "https://github.com/jgarcia99",
+              "followers_url": "https://api.github.com/users/jgarcia99/followers",
+              "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+              "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+              "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+              "repos_url": "https://api.github.com/users/jgarcia99/repos",
+              "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/jgarcia99/TIY-Assignments",
+            "description": "",
+            "fork": false,
+            "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments",
+            "forks_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/forks",
+            "keys_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/teams",
+            "hooks_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/hooks",
+            "issue_events_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/events",
+            "assignees_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/tags",
+            "blobs_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/languages",
+            "stargazers_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/stargazers",
+            "contributors_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/contributors",
+            "subscribers_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/subscribers",
+            "subscription_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/subscription",
+            "commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/merges",
+            "archive_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/downloads",
+            "issues_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/labels{/name}",
+            "releases_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/releases{/id}",
+            "created_at": "2014-12-10T16:26:07Z",
+            "updated_at": "2015-02-09T20:42:38Z",
+            "pushed_at": "2015-02-10T18:56:34Z",
+            "git_url": "git://github.com/jgarcia99/TIY-Assignments.git",
+            "ssh_url": "git@github.com:jgarcia99/TIY-Assignments.git",
+            "clone_url": "https://github.com/jgarcia99/TIY-Assignments.git",
+            "svn_url": "https://github.com/jgarcia99/TIY-Assignments",
+            "homepage": null,
+            "size": 16398,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "JavaScript",
+            "has_issues": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": true,
+            "forks_count": 1,
+            "mirror_url": null,
+            "open_issues_count": 1,
+            "forks": 1,
+            "open_issues": 1,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "base": {
+          "label": "jgarcia99:master",
+          "ref": "master",
+          "sha": "ecd2fe2fa2ba6f155fc7bf2f093049257c32cc41",
+          "user": {
+            "login": "jgarcia99",
+            "id": 9021659,
+            "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jgarcia99",
+            "html_url": "https://github.com/jgarcia99",
+            "followers_url": "https://api.github.com/users/jgarcia99/followers",
+            "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+            "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+            "repos_url": "https://api.github.com/users/jgarcia99/repos",
+            "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 27828455,
+            "name": "TIY-Assignments",
+            "full_name": "jgarcia99/TIY-Assignments",
+            "owner": {
+              "login": "jgarcia99",
+              "id": 9021659,
+              "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/jgarcia99",
+              "html_url": "https://github.com/jgarcia99",
+              "followers_url": "https://api.github.com/users/jgarcia99/followers",
+              "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+              "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+              "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+              "repos_url": "https://api.github.com/users/jgarcia99/repos",
+              "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/jgarcia99/TIY-Assignments",
+            "description": "",
+            "fork": false,
+            "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments",
+            "forks_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/forks",
+            "keys_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/teams",
+            "hooks_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/hooks",
+            "issue_events_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/events",
+            "assignees_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/tags",
+            "blobs_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/languages",
+            "stargazers_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/stargazers",
+            "contributors_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/contributors",
+            "subscribers_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/subscribers",
+            "subscription_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/subscription",
+            "commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/merges",
+            "archive_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/downloads",
+            "issues_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/labels{/name}",
+            "releases_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/releases{/id}",
+            "created_at": "2014-12-10T16:26:07Z",
+            "updated_at": "2015-02-09T20:42:38Z",
+            "pushed_at": "2015-02-10T18:56:34Z",
+            "git_url": "git://github.com/jgarcia99/TIY-Assignments.git",
+            "ssh_url": "git@github.com:jgarcia99/TIY-Assignments.git",
+            "clone_url": "https://github.com/jgarcia99/TIY-Assignments.git",
+            "svn_url": "https://github.com/jgarcia99/TIY-Assignments",
+            "homepage": null,
+            "size": 16398,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "JavaScript",
+            "has_issues": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": true,
+            "forks_count": 1,
+            "mirror_url": null,
+            "open_issues_count": 1,
+            "forks": 1,
+            "open_issues": 1,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/26"
+          },
+          "html": {
+            "href": "https://github.com/jgarcia99/TIY-Assignments/pull/26"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/26"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/26/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/26/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/comments/{number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/26/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/statuses/656f7ca6ceec2525e550787a40bfe196aaba1ef8"
+          }
+        },
+        "merged": true,
+        "mergeable": null,
+        "mergeable_state": "unknown",
+        "merged_by": {
+          "login": "jgarcia99",
+          "id": 9021659,
+          "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/jgarcia99",
+          "html_url": "https://github.com/jgarcia99",
+          "followers_url": "https://api.github.com/users/jgarcia99/followers",
+          "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+          "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+          "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+          "repos_url": "https://api.github.com/users/jgarcia99/repos",
+          "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "comments": 0,
+        "review_comments": 0,
+        "commits": 3,
+        "additions": 2181,
+        "deletions": 0,
+        "changed_files": 18
+      }
+    },
+    "public": true,
+    "created_at": "2015-02-10T18:56:35Z"
+  },
+  {
+    "id": "2571323961",
+    "type": "PushEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 27828455,
+      "name": "jgarcia99/TIY-Assignments",
+      "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments"
+    },
+    "payload": {
+      "push_id": 570485190,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/21--living-chessboard",
+      "head": "656f7ca6ceec2525e550787a40bfe196aaba1ef8",
+      "before": "fc21914ac1ea4a69960dc585d2d300a866a566a6",
+      "commits": [
+        {
+          "sha": "656f7ca6ceec2525e550787a40bfe196aaba1ef8",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "quick change",
+          "distinct": true,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/656f7ca6ceec2525e550787a40bfe196aaba1ef8"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-02-10T15:55:06Z"
+  },
+  {
+    "id": "2571064577",
+    "type": "PushEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 27828455,
+      "name": "jgarcia99/TIY-Assignments",
+      "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments"
+    },
+    "payload": {
+      "push_id": 570380583,
+      "size": 13,
+      "distinct_size": 0,
+      "ref": "refs/heads/gh-pages",
+      "head": "fc21914ac1ea4a69960dc585d2d300a866a566a6",
+      "before": "5be947458bc7d745b402797c3ca323e97366770f",
+      "commits": [
+        {
+          "sha": "2e06dc5769b39a63e4972574e9187a0173ff9a76",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "Merge pull request #22 from jgarcia99/master\n\ndeleted gitignore",
+          "distinct": false,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/2e06dc5769b39a63e4972574e9187a0173ff9a76"
+        },
+        {
+          "sha": "4cd02fb4dcd0349056868e0126a2b8d4ca4f4992",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "Merge pull request #23 from jgarcia99/feature/17--Codrops-Galore\n\nMerge pull request #22 from jgarcia99/master",
+          "distinct": false,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/4cd02fb4dcd0349056868e0126a2b8d4ca4f4992"
+        },
+        {
+          "sha": "e1d1f9ed98344fd6a531bbb47e7317ccdd09834c",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "Merge pull request #24 from jgarcia99/feature/18--hello-jquery\n\nFeature/18  hello jquery",
+          "distinct": false,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/e1d1f9ed98344fd6a531bbb47e7317ccdd09834c"
+        },
+        {
+          "sha": "028cc8769564e988eba2fe97ccbeac05c8f4b377",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "yak shaving for profile check",
+          "distinct": false,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/028cc8769564e988eba2fe97ccbeac05c8f4b377"
+        },
+        {
+          "sha": "37617a559bb83052c53d23a065f988922c7c6b3e",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "MFg website for mobile first",
+          "distinct": false,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/37617a559bb83052c53d23a065f988922c7c6b3e"
+        },
+        {
+          "sha": "313be093283b0614cb97dbfb031f91fdf2b8a456",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "look mom I got icons",
+          "distinct": false,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/313be093283b0614cb97dbfb031f91fdf2b8a456"
+        },
+        {
+          "sha": "7c9aa6d9e296618aed8058b3ffbd731f30230231",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "few changes bootstrap",
+          "distinct": false,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/7c9aa6d9e296618aed8058b3ffbd731f30230231"
+        },
+        {
+          "sha": "8051e03b45c77438f8a8a8a07370d08989bff9e4",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "commentbox",
+          "distinct": false,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/8051e03b45c77438f8a8a8a07370d08989bff9e4"
+        },
+        {
+          "sha": "54b09df0de77c3cba541efda19b4f8b0aca73b67",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "button",
+          "distinct": false,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/54b09df0de77c3cba541efda19b4f8b0aca73b67"
+        },
+        {
+          "sha": "228cf11a40dce4d13d04f9c90b345a17df793e4e",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "last push",
+          "distinct": false,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/228cf11a40dce4d13d04f9c90b345a17df793e4e"
+        },
+        {
+          "sha": "ecd2fe2fa2ba6f155fc7bf2f093049257c32cc41",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "last",
+          "distinct": false,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/ecd2fe2fa2ba6f155fc7bf2f093049257c32cc41"
+        },
+        {
+          "sha": "0eb0a47a4b1846706c6c7f55d6833f1a90064dba",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "pair programming @jaredstevick @taylorfoster90",
+          "distinct": false,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/0eb0a47a4b1846706c6c7f55d6833f1a90064dba"
+        },
+        {
+          "sha": "fc21914ac1ea4a69960dc585d2d300a866a566a6",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "lil more style",
+          "distinct": false,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/fc21914ac1ea4a69960dc585d2d300a866a566a6"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-02-10T14:25:30Z"
+  },
+  {
+    "id": "2569939751",
+    "type": "PushEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 27828455,
+      "name": "jgarcia99/TIY-Assignments",
+      "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments"
+    },
+    "payload": {
+      "push_id": 569912508,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/21--living-chessboard",
+      "head": "fc21914ac1ea4a69960dc585d2d300a866a566a6",
+      "before": "0eb0a47a4b1846706c6c7f55d6833f1a90064dba",
+      "commits": [
+        {
+          "sha": "fc21914ac1ea4a69960dc585d2d300a866a566a6",
+          "author": {
+            "email": "garciajosuel@yahoo.com",
+            "name": "Josuel C Garcia"
+          },
+          "message": "lil more style",
+          "distinct": true,
+          "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits/fc21914ac1ea4a69960dc585d2d300a866a566a6"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-02-10T03:24:46Z"
+  },
+  {
+    "id": "2569919889",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 27828455,
+      "name": "jgarcia99/TIY-Assignments",
+      "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments"
+    },
+    "payload": {
+      "action": "opened",
+      "number": 26,
+      "pull_request": {
+        "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/26",
+        "id": 28977669,
+        "html_url": "https://github.com/jgarcia99/TIY-Assignments/pull/26",
+        "diff_url": "https://github.com/jgarcia99/TIY-Assignments/pull/26.diff",
+        "patch_url": "https://github.com/jgarcia99/TIY-Assignments/pull/26.patch",
+        "issue_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/26",
+        "number": 26,
+        "state": "open",
+        "locked": false,
+        "title": "pair programming @jaredstevick @taylorfoster90",
+        "user": {
+          "login": "jgarcia99",
+          "id": 9021659,
+          "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/jgarcia99",
+          "html_url": "https://github.com/jgarcia99",
+          "followers_url": "https://api.github.com/users/jgarcia99/followers",
+          "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+          "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+          "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+          "repos_url": "https://api.github.com/users/jgarcia99/repos",
+          "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "body": "https://github.com/TheIronYard--Orlando/FEE--2015--SPRING/issues/270",
+        "created_at": "2015-02-10T03:09:13Z",
+        "updated_at": "2015-02-10T03:09:13Z",
+        "closed_at": null,
+        "merged_at": null,
+        "merge_commit_sha": null,
+        "assignee": null,
+        "milestone": null,
+        "commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/26/commits",
+        "review_comments_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/26/comments",
+        "review_comment_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/comments/{number}",
+        "comments_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/26/comments",
+        "statuses_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/statuses/0eb0a47a4b1846706c6c7f55d6833f1a90064dba",
+        "head": {
+          "label": "jgarcia99:feature/21--living-chessboard",
+          "ref": "feature/21--living-chessboard",
+          "sha": "0eb0a47a4b1846706c6c7f55d6833f1a90064dba",
+          "user": {
+            "login": "jgarcia99",
+            "id": 9021659,
+            "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jgarcia99",
+            "html_url": "https://github.com/jgarcia99",
+            "followers_url": "https://api.github.com/users/jgarcia99/followers",
+            "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+            "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+            "repos_url": "https://api.github.com/users/jgarcia99/repos",
+            "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 27828455,
+            "name": "TIY-Assignments",
+            "full_name": "jgarcia99/TIY-Assignments",
+            "owner": {
+              "login": "jgarcia99",
+              "id": 9021659,
+              "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/jgarcia99",
+              "html_url": "https://github.com/jgarcia99",
+              "followers_url": "https://api.github.com/users/jgarcia99/followers",
+              "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+              "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+              "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+              "repos_url": "https://api.github.com/users/jgarcia99/repos",
+              "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/jgarcia99/TIY-Assignments",
+            "description": "",
+            "fork": false,
+            "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments",
+            "forks_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/forks",
+            "keys_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/teams",
+            "hooks_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/hooks",
+            "issue_events_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/events",
+            "assignees_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/tags",
+            "blobs_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/languages",
+            "stargazers_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/stargazers",
+            "contributors_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/contributors",
+            "subscribers_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/subscribers",
+            "subscription_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/subscription",
+            "commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/merges",
+            "archive_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/downloads",
+            "issues_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/labels{/name}",
+            "releases_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/releases{/id}",
+            "created_at": "2014-12-10T16:26:07Z",
+            "updated_at": "2015-02-09T20:42:38Z",
+            "pushed_at": "2015-02-10T03:08:23Z",
+            "git_url": "git://github.com/jgarcia99/TIY-Assignments.git",
+            "ssh_url": "git@github.com:jgarcia99/TIY-Assignments.git",
+            "clone_url": "https://github.com/jgarcia99/TIY-Assignments.git",
+            "svn_url": "https://github.com/jgarcia99/TIY-Assignments",
+            "homepage": null,
+            "size": 16398,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "JavaScript",
+            "has_issues": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": true,
+            "forks_count": 1,
+            "mirror_url": null,
+            "open_issues_count": 2,
+            "forks": 1,
+            "open_issues": 2,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "base": {
+          "label": "jgarcia99:master",
+          "ref": "master",
+          "sha": "ecd2fe2fa2ba6f155fc7bf2f093049257c32cc41",
+          "user": {
+            "login": "jgarcia99",
+            "id": 9021659,
+            "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jgarcia99",
+            "html_url": "https://github.com/jgarcia99",
+            "followers_url": "https://api.github.com/users/jgarcia99/followers",
+            "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+            "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+            "repos_url": "https://api.github.com/users/jgarcia99/repos",
+            "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 27828455,
+            "name": "TIY-Assignments",
+            "full_name": "jgarcia99/TIY-Assignments",
+            "owner": {
+              "login": "jgarcia99",
+              "id": 9021659,
+              "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/jgarcia99",
+              "html_url": "https://github.com/jgarcia99",
+              "followers_url": "https://api.github.com/users/jgarcia99/followers",
+              "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+              "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+              "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+              "repos_url": "https://api.github.com/users/jgarcia99/repos",
+              "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/jgarcia99/TIY-Assignments",
+            "description": "",
+            "fork": false,
+            "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments",
+            "forks_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/forks",
+            "keys_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/teams",
+            "hooks_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/hooks",
+            "issue_events_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/events",
+            "assignees_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/tags",
+            "blobs_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/languages",
+            "stargazers_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/stargazers",
+            "contributors_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/contributors",
+            "subscribers_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/subscribers",
+            "subscription_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/subscription",
+            "commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/merges",
+            "archive_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/downloads",
+            "issues_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/labels{/name}",
+            "releases_url": "https://api.github.com/repos/jgarcia99/TIY-Assignments/releases{/id}",
+            "created_at": "2014-12-10T16:26:07Z",
+            "updated_at": "2015-02-09T20:42:38Z",
+            "pushed_at": "2015-02-10T03:08:23Z",
+            "git_url": "git://github.com/jgarcia99/TIY-Assignments.git",
+            "ssh_url": "git@github.com:jgarcia99/TIY-Assignments.git",
+            "clone_url": "https://github.com/jgarcia99/TIY-Assignments.git",
+            "svn_url": "https://github.com/jgarcia99/TIY-Assignments",
+            "homepage": null,
+            "size": 16398,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "JavaScript",
+            "has_issues": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": true,
+            "forks_count": 1,
+            "mirror_url": null,
+            "open_issues_count": 2,
+            "forks": 1,
+            "open_issues": 2,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/26"
+          },
+          "html": {
+            "href": "https://github.com/jgarcia99/TIY-Assignments/pull/26"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/26"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/issues/26/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/26/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/comments/{number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/pulls/26/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/jgarcia99/TIY-Assignments/statuses/0eb0a47a4b1846706c6c7f55d6833f1a90064dba"
+          }
+        },
+        "merged": false,
+        "mergeable": null,
+        "mergeable_state": "unknown",
+        "merged_by": null,
+        "comments": 0,
+        "review_comments": 0,
+        "commits": 1,
+        "additions": 2174,
+        "deletions": 0,
+        "changed_files": 18
+      }
+    },
+    "public": true,
+    "created_at": "2015-02-10T03:09:14Z"
+  },
+  {
+    "id": "2569918798",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 27828455,
+      "name": "jgarcia99/TIY-Assignments",
+      "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments"
+    },
+    "payload": {
+      "ref": "feature/21--living-chessboard",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": "",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-02-10T03:08:23Z"
+  },
+  {
+    "id": "2569154668",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 25180640,
+      "name": "TheIronYard--Orlando/FEE--2015--SPRING",
+      "url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/270",
+        "labels_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/270/labels{/name}",
+        "comments_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/270/comments",
+        "events_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/270/events",
+        "html_url": "https://github.com/TheIronYard--Orlando/FEE--2015--SPRING/issues/270",
+        "id": 57087476,
+        "number": 270,
+        "title": "21 -- Night of the Living Chessboard -- Josuel Garcia",
+        "user": {
+          "login": "jgarcia99",
+          "id": 9021659,
+          "avatar_url": "https://avatars.githubusercontent.com/u/9021659?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/jgarcia99",
+          "html_url": "https://github.com/jgarcia99",
+          "followers_url": "https://api.github.com/users/jgarcia99/followers",
+          "following_url": "https://api.github.com/users/jgarcia99/following{/other_user}",
+          "gists_url": "https://api.github.com/users/jgarcia99/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/jgarcia99/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/jgarcia99/subscriptions",
+          "organizations_url": "https://api.github.com/users/jgarcia99/orgs",
+          "repos_url": "https://api.github.com/users/jgarcia99/repos",
+          "events_url": "https://api.github.com/users/jgarcia99/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/jgarcia99/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2015-02-09T20:48:21Z",
+        "updated_at": "2015-02-09T20:48:21Z",
+        "closed_at": null,
+        "body": "## Requirements\r\n\r\n* _WIP Issue:_ `21 -- Night of the Living Chessboard`\r\n* _WIP Branch:_ `feature/21--living-chessboard`\r\n* _WIP Files:_\r\n  * **Night of the Living Chessboard**\r\n    * `pub/index.html`\r\n    * `pub/js/main.js`\r\n    * `pub/css/main.css`\r\n* `pub/css/main.scss`\r\n  * **The Colour Clock**\r\n    * get creative...\r\n  * **Project Euler**\r\n    * `scripts/euler-XX.js`\r\n  * **API Gymnastics**\r\n    * `scripts/gymnastics.js"
+      }
+    },
+    "public": true,
+    "created_at": "2015-02-09T20:48:21Z",
+    "org": {
+      "id": 8798300,
+      "login": "TheIronYard--Orlando",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/TheIronYard--Orlando",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8798300?"
+    }
+  },
+  {
+    "id": "2569140866",
+    "type": "DeleteEvent",
+    "actor": {
+      "id": 9021659,
+      "login": "jgarcia99",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jgarcia99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9021659?"
+    },
+    "repo": {
+      "id": 27828455,
+      "name": "jgarcia99/TIY-Assignments",
+      "url": "https://api.github.com/repos/jgarcia99/TIY-Assignments"
+    },
+    "payload": {
+      "ref": "feature/20--github-revolution",
+      "ref_type": "branch",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-02-09T20:42:55Z"
+  }
+]
