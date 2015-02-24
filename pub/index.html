@@ -1,200 +1,60 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title></title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+<html ng-app="gemStore">
 
-        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-
-        <link rel="stylesheet" href="css/normalize.css">
-        <link rel="stylesheet" href="css/main.css">
-         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
-        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
-        
-       
-    </head>
-    <body>
-        <!--[if lt IE 7]>
-            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
-
-        <!-- Add your site or application content here-->   
-        
-        
-       
-        
-        
-           <big></big> 
-        
-        
-        <div class="container">
-            <table>
-                <thead>
-                    <tr>
-                       <th></th>
-                        <th>a</th>
-                        <th>b</th>
-                        <th>c</th>
-                        <th>d</th>
-                        <th>e</th>
-                        <th>f</th>
-                        <th>g</th>
-                        <th>h</th>
-                        <th></th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <th>8</th>
-                        <td class="king"> </td>
-                        <td ></td>
-                         <td></td>
-                        <td></td>
-                         <td></td>
-                        <td></td>
-                         <td></td>
-                         <td></td>
-                        <th>8</th>
-                        
-                    </tr>
-                     <tr>
-                        <th>7</th>
-                        <td> </td>
-                        <td></td>
-                         <td></td>
-                        <td></td>
-                         <td></td>
-                        <td></td>
-                         <td></td>
-                          <td></td>
-                           <th>7</th> 
+<head>
+    <link rel="stylesheet" type="text/css" href="bootstrap.min.css" />
 
 
-                    </tr>
-                     <tr>
-                        <th>6</th>
-                        <td> </td>
-                        <td></td>
-                          <td></td>
-                        <td></td>
-                         <td></td>
-                        <td></td>
-                         <td></td>
-                          <td></td>
-                          <th>6</th>                       
+</head>
 
-                    </tr>
-                     <tr>
-                        <th>5</th>
-                        <td></td>
-                        <td></td>
-                          <td></td>
-                        <td></td>
-                         <td></td>
-                        <td></td>
-                         <td></td>
-                          <td></td>
-                         <th>5</th>
-                    </tr>
-                     <tr>
-                        <th>4</th>
-                        <td></td>
-                        <td></td>
-                          <td></td>
-                        <td></td>
-                         <td></td>
-                        <td></td>
-                         <td></td>
-                          <td></td>
-                         <th>4</th>
-                    </tr>
-                     <tr>
-                        <th>3</th>
-                        <td></td>
-                        <td></td>
-                          <td></td>
-                        <td></td>
-                         <td></td>
-                        <td></td>
-                         <td></td>
-                          <td></td>
-                          <th>3</th>
-                    </tr>
-                     <tr>
-                        <th>2</th>
-                        <td></td>
-                        <td></td>
-                          <td></td>
-                        <td></td>
-                         <td></td>
-                        <td></td>
-                         <td></td>
-                          <td></td>
-                          <th>2</th>
-                    </tr>
-                     <tr>
-                        <th>1</th>
-                        <td></td>
-                        <td></td>
-                          <td></td>
-                        <td></td>
-                         <td></td>
-                        <td></td>
-                         <td></td>
-                          <td></td>
-                          <th>1</th>
-                         
-                    </tr>
-                    
-                </tbody>
-            <tr>
-                       <th></th>
-                        <th>a</th>
-                        <th>b</th>
-                        <th>c</th>
-                        <th>d</th>
-                        <th>e</th>
-                        <th>f</th>
-                        <th>g</th>
-                        <th>h</th>
-                        <th></th>
-                    </tr>
-        
-       
-        
-        
-        
-        
-        </table>
-         
-       </div>
-        
-        
-        
-        
-        
-        
-        
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
-        <script src="js/plugins.js"></script>
-        <script src="js/main.js"></script>
+<body class="list-group" ng-controller="StoreController as store">
+    <header>
+        <h1 class="text-center">Flatlander Crafted Gems</h1>
+        <h2 class="text-center">– an Angular store –</h2>
+    </header>
+    <div class="list-group-item" ng-repeat="product in store.products">
+        <h3>
+        {{product.name}}
+        <em class="pull-right">{{product.price | currency}}</em>
+      </h3>
 
-        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
-        <script>
-            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
-            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
-            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
-            e.src='//www.google-analytics.com/analytics.js';
-            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
-            ga('create','UA-XXXXX-X');ga('send','pageview');
-        </script>
-       
-    </body>
+        <!-- Image Gallery  -->
+        <div class='gallery' ng-show="product.images.length" ng-controller="GalleryController as gallery">
+            <img ng-src="{{product.images[gallery.current]}}" />
+            <ul class="list-inline thumbs">
+                <li class="thumbnail" ng-repeat="image in product.images">
+                    <img ng-src="{{image}}" />
+                </li>
+            </ul>
+        </div>
+
+        <section class="tab" ng-controller="TabController as tab">
+            <ul class="nav nav-pills">
+                <li ng-class="{ active: tab.isSet(1) }">
+                    <a href ng-click="tab.setTab(1)">Description</a>
+                </li>
+                <li ng-class="{ active: tab.isSet(2) }">
+                    <a href ng-click="tab.setTab(2)">Specs</a>
+                </li>
+                <li ng-class="{ active: tab.isSet(3) }">
+                    <a href ng-click="tab.setTab(3)">Reviews</a>
+                </li>
+            </ul>
+            <div ng-show="tab.isSet(1)">
+                <h4>Description</h4>
+                <blockquote>{{product.description}}</blockquote>
+            </div>
+            <div ng-show="tab.isSet(2)">
+                <h4>Specs</h4>
+                <blockquote>Shine: {{product.shine}}</blockquote>
+            </div>
+            <div ng-show="tab.isSet(3)">
+                <h4>Reviews</h4>
+            </div>
+        </section>
+    </div>
+    <script type="text/javascript" src="angular.min.js"></script>
+    <script src="js/app.js"></script>
+</body>
+
 </html>
