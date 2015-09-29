@@ -101,10 +101,10 @@ body {
     font-family: 'Oswald', sans-serif;
 }
 
+/* HEADER */
+
 .main-title {
     background-image: url(http://sbrownehr.com/wp-content/uploads/2014/08/Waves.jpg);
-    
-
 }
 
 #nav-bar {
@@ -114,45 +114,101 @@ body {
     color: #003351;
 }
 
-header  img {
-    color: red;
+header img {
+    padding-left: 40%;
+}
+
+article h2 {
+    font-size: 3em;
+}
+
+
+#title1 {
+    text-align: center;
+    font-size: 3.3em;
+    color: #fff;
+}
+
+#title2 {
+    font-size: 1.2em;
+    text-align: center;
+    padding-bottom: 20px;
+
+}
+
+.share-buttons i {
+    height: 40px;
+    width: 40px;
+    background-color: darkgray;
+    color: #fff;
+    padding: 12px;
+    margin: 5px;
+    display: inline-block;
 }
 
 
 
+/****** ASIDE *******/
+
+aside {
+
+    text-align: center;
+}
 
 
 
+/***** POPULAR POSTS *******/
 
+#pop-posts {
+    border-top: 1px solid lightgrey;
+}
 
+#post-title {
+    position: relative;
+    padding-left: 20px;
+    bottom: 52px;
+    color: #fff;
+    font-size: xx-large;
+}
 
+#longer-post {
+    position: relative;
+    padding-left: 20px;
+    bottom: 52px;
+    color: #fff;
+    font-size: xx-large;
+}
 
+#cool-dog {
+    position: relative;
+    padding-left: 20px;
+    bottom: 52px;
+    color: #fff;
+    font-size: xx-large;
+}
 
+section img {
+    width: 300px;
+    height: 300px;
+}
 
+/***** FOOTER *****/
 
+footer {
+    background-color: #003352;
+    color: white;
+    text-align: center;
+}
 
+footer img {
+    color: white;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#navbar-bottom a {
+    color: white;
+    text-decoration: none;
+    padding-top: 20px;
+}
 
 
 
@@ -264,8 +320,44 @@ header  img {
    Modify as content requires.
    ========================================================================== */
 
-@media only screen and (min-width: 35em) {
+@media only screen and (min-width: 768px) {
     /* Style adjustments for viewports that meet the condition */
+
+    #title1 {
+        font-size: 5em;
+    }
+
+    #nav-bar {
+        float: right;
+    }
+
+    article, aside {
+        margin: 4%;
+    }
+
+
+    section h2 {
+        font-size: 4em;
+        text-align: center;
+    }
+
+    header img {
+        padding: 5px 0 0 20px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
 
 @media print,
