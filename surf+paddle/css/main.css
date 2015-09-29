@@ -163,7 +163,7 @@ aside {
     border-top: 1px solid lightgrey;
 }
 
-#post-title {
+#cool-dog, #surfer-babe, #longer-post, #post-title {
     position: relative;
     padding-left: 20px;
     bottom: 52px;
@@ -171,23 +171,7 @@ aside {
     font-size: xx-large;
 }
 
-#longer-post {
-    position: relative;
-    padding-left: 20px;
-    bottom: 52px;
-    color: #fff;
-    font-size: xx-large;
-}
-
-#cool-dog {
-    position: relative;
-    padding-left: 20px;
-    bottom: 52px;
-    color: #fff;
-    font-size: xx-large;
-}
-
-section img {
+section figure img {
     width: 300px;
     height: 300px;
 }
@@ -209,6 +193,8 @@ footer img {
     text-decoration: none;
     padding-top: 20px;
 }
+
+
 
 
 
